@@ -1,0 +1,6 @@
+com.weather.app.test.app-annotation-experimental-1.3.0-0 /Users/sabin/.gradle/caches/transforms-4/1e12ab32aabca6ef97c5d96341a5dfa7/transformed/annotation-experimental-1.3.0/res
+com.weather.app.test.app-core-1.5.0-1 /Users/sabin/.gradle/caches/transforms-4/cee746edace11f49ac220f9165419377/transformed/core-1.5.0/res
+com.weather.app.test.app-androidTest-2 /Users/sabin/StudioProjects/WeatherApp/app/build/generated/res/resValues/androidTest/debug
+com.weather.app.test.app-mergeDebugAndroidTestResources-3 /Users/sabin/StudioProjects/WeatherApp/app/build/intermediates/incremental/debugAndroidTest/mergeDebugAndroidTestResources/merged.dir
+com.weather.app.test.app-mergeDebugAndroidTestResources-4 /Users/sabin/StudioProjects/WeatherApp/app/build/intermediates/incremental/debugAndroidTest/mergeDebugAndroidTestResources/stripped.dir
+com.weather.app.test.app-debugAndroidTest-5 /Users/sabin/StudioProjects/WeatherApp/app/build/intermediates/merged_res/debugAndroidTest/mergeDebugAndroidTestResources

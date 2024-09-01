@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">WeatherApp</string>
+
+    <string name="location">Location</string>
+    <string name="temperature">Temperature</string>
+    <string name="description">Description</string>
+    <string name="weather_icon">Weather Icon</string>
+    <string name="sunrise">Sunrise</string>
+    <string name="sunset">Sunset</string>
+    <string name="date_placeholder">Date Placeholder</string>
+    <string name="temperature_placeholder">Temperature Placeholder</string>
+    <string name="_7_day_forecast">7-Day Forecast</string>
+    <string name="wind_10_km_h">Wind: 10 km/h</string>
+    <string name="humidity_60">Humidity: 60%</string>
+    <string name="_08_00_pm">08:00 PM</string>
+    <string name="_06_00_am">06:00 AM</string>
+    <string name="sunrise_icon">Sunrise Icon</string>
+    <string name="sunset_icon">Sunset Icon</string>
+    <string name="search_city">Search City\n</string>
+</resources>

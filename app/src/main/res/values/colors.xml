@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="background_color">#FFFFFF</color> <!-- Example white background -->
+    <color name="background_color_secondary">#F0F0F0
+    </color> <!-- Example light grey background for RecyclerView -->
+    <color name="text_color">#000000</color> <!-- Example black text color -->
+    <color name="text_color_secondary">#757575</color> <!-- Example grey text color -->
+    <color name="divider_color">#BDBDBD</color> <!-- Example light grey divider color -->
+    <color name="gray_light">#E0E0E0</color>
+    <color name="gray_dark">#B0B0B0</color>
+</resources>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="background_color">#FFFFFF</color>
+    <color name="background_color_secondary">#F0F0F0
+    </color>
+    <color name="black">#FF000000</color>
+    <color name="divider_color">#BDBDBD</color>
+    <color name="gray_dark">#B0B0B0</color>
+    <color name="gray_light">#E0E0E0</color>
+    <color name="text_color">#000000</color>
+    <color name="text_color_secondary">#757575</color>
+    <color name="white">#FFFFFFFF</color>
+    <dimen name="icon_size">50dp</dimen>
+    <string name="_06_00_am">06:00 AM</string>
+    <string name="_08_00_pm">08:00 PM</string>
+    <string name="_7_day_forecast">7-Day Forecast</string>
+    <string name="app_name">WeatherApp</string>
+    <string name="date_placeholder">Date Placeholder</string>
+    <string name="description">Description</string>
+    <string name="humidity_60">Humidity: 60%</string>
+    <string name="location">Location</string>
+    <string name="search_city">Search City\n</string>
+    <string name="sunrise">Sunrise</string>
+    <string name="sunrise_icon">Sunrise Icon</string>
+    <string name="sunset">Sunset</string>
+    <string name="sunset_icon">Sunset Icon</string>
+    <string name="temperature">Temperature</string>
+    <string name="temperature_placeholder">Temperature Placeholder</string>
+    <string name="weather_icon">Weather Icon</string>
+    <string name="wind_10_km_h">Wind: 10 km/h</string>
+    <style name="Base.Theme.WeatherApp" parent="Theme.Material3.DayNight.NoActionBar">
+        
+        
+    </style>
+    <style name="Theme.WeatherApp" parent="Base.Theme.WeatherApp"/>
+</resources>

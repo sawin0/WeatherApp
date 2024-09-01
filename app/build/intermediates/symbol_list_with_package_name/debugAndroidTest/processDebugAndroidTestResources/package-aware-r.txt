@@ -1,0 +1,3 @@
+com.weather.app.test
+style WhiteBackgroundDialogTheme
+style WhiteBackgroundTheme
