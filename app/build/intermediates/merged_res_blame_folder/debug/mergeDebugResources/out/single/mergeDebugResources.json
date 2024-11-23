@@ -1,206 +1,202 @@
 [
     {
-        "merged": "/Users/sabin/.gradle/daemon/8.7/com.weather.app-debug-34:/mipmap-xxhdpi_ic_launcher_background.png.flat",
-        "source": "/Users/sabin/.gradle/daemon/8.7/com.weather.app-main-36:/mipmap-xxhdpi/ic_launcher_background.png"
+        "merged": "com.weather.app-debug-34:/mipmap-hdpi_ic_launcher_foreground.png.flat",
+        "source": "com.weather.app-main-36:/mipmap-hdpi/ic_launcher_foreground.png"
     },
     {
-        "merged": "/Users/sabin/.gradle/daemon/8.7/com.weather.app-debug-34:/mipmap-hdpi_ic_launcher_monochrome.png.flat",
-        "source": "/Users/sabin/.gradle/daemon/8.7/com.weather.app-main-36:/mipmap-hdpi/ic_launcher_monochrome.png"
+        "merged": "com.weather.app-debug-34:/mipmap-xhdpi_ic_launcher_monochrome.png.flat",
+        "source": "com.weather.app-main-36:/mipmap-xhdpi/ic_launcher_monochrome.png"
     },
     {
-        "merged": "/Users/sabin/.gradle/daemon/8.7/com.weather.app-debug-34:/drawable_rain_day_night.png.flat",
-        "source": "/Users/sabin/.gradle/daemon/8.7/com.weather.app-main-36:/drawable/rain_day_night.png"
+        "merged": "com.weather.app-debug-34:/drawable_clear_night.png.flat",
+        "source": "com.weather.app-main-36:/drawable/clear_night.png"
     },
     {
-        "merged": "/Users/sabin/.gradle/daemon/8.7/com.weather.app-debug-34:/drawable_partly_cloudy_night.png.flat",
-        "source": "/Users/sabin/.gradle/daemon/8.7/com.weather.app-main-36:/drawable/partly_cloudy_night.png"
+        "merged": "com.weather.app-debug-34:/drawable_clear_day.png.flat",
+        "source": "com.weather.app-main-36:/drawable/clear_day.png"
     },
     {
-        "merged": "/Users/sabin/.gradle/daemon/8.7/com.weather.app-debug-34:/mipmap-xxxhdpi_ic_launcher.png.flat",
-        "source": "/Users/sabin/.gradle/daemon/8.7/com.weather.app-main-36:/mipmap-xxxhdpi/ic_launcher.png"
+        "merged": "com.weather.app-debug-34:/mipmap-xxhdpi_ic_launcher_background.png.flat",
+        "source": "com.weather.app-main-36:/mipmap-xxhdpi/ic_launcher_background.png"
     },
     {
-        "merged": "/Users/sabin/.gradle/daemon/8.7/com.weather.app-debug-34:/drawable_hail_day_night.png.flat",
-        "source": "/Users/sabin/.gradle/daemon/8.7/com.weather.app-main-36:/drawable/hail_day_night.png"
+        "merged": "com.weather.app-debug-34:/drawable_fog_day_night.png.flat",
+        "source": "com.weather.app-main-36:/drawable/fog_day_night.png"
     },
     {
-        "merged": "/Users/sabin/.gradle/daemon/8.7/com.weather.app-debug-34:/drawable_ic_launcher_foreground.xml.flat",
-        "source": "/Users/sabin/.gradle/daemon/8.7/com.weather.app-main-36:/drawable/ic_launcher_foreground.xml"
+        "merged": "com.weather.app-debug-34:/drawable_wind_day_night.png.flat",
+        "source": "com.weather.app-main-36:/drawable/wind_day_night.png"
+    },
+    {
+        "merged": "com.weather.app-debug-34:/drawable_ic_search.xml.flat",
+        "source": "com.weather.app-main-36:/drawable/ic_search.xml"
+    },
+    {
+        "merged": "com.weather.app-debug-34:/drawable_sleet_day_night.png.flat",
+        "source": "com.weather.app-main-36:/drawable/sleet_day_night.png"
+    },
+    {
+        "merged": "com.weather.app-debug-34:/mipmap-xxhdpi_ic_launcher_monochrome.png.flat",
+        "source": "com.weather.app-main-36:/mipmap-xxhdpi/ic_launcher_monochrome.png"
     },
     {
         "merged": "com.weather.app-debug-34:/layout_activity_search_city.xml.flat",
         "source": "com.weather.app-main-36:/layout/activity_search_city.xml"
     },
     {
-        "merged": "/Users/sabin/.gradle/daemon/8.7/com.weather.app-debug-34:/mipmap-hdpi_ic_launcher.png.flat",
-        "source": "/Users/sabin/.gradle/daemon/8.7/com.weather.app-main-36:/mipmap-hdpi/ic_launcher.png"
+        "merged": "com.weather.app-debug-34:/drawable_thunderstorm_day_night.png.flat",
+        "source": "com.weather.app-main-36:/drawable/thunderstorm_day_night.png"
     },
     {
-        "merged": "/Users/sabin/.gradle/daemon/8.7/com.weather.app-debug-34:/drawable_ic_launcher_background.xml.flat",
-        "source": "/Users/sabin/.gradle/daemon/8.7/com.weather.app-main-36:/drawable/ic_launcher_background.xml"
+        "merged": "com.weather.app-debug-34:/drawable_drizzle_day_night.png.flat",
+        "source": "com.weather.app-main-36:/drawable/drizzle_day_night.png"
     },
     {
-        "merged": "/Users/sabin/.gradle/daemon/8.7/com.weather.app-debug-34:/drawable_ic_search.xml.flat",
-        "source": "/Users/sabin/.gradle/daemon/8.7/com.weather.app-main-36:/drawable/ic_search.xml"
+        "merged": "com.weather.app-debug-34:/mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "com.weather.app-main-36:/mipmap-xxhdpi/ic_launcher.png"
     },
     {
-        "merged": "/Users/sabin/.gradle/daemon/8.7/com.weather.app-debug-34:/drawable_ic_weather_placeholder.xml.flat",
-        "source": "/Users/sabin/.gradle/daemon/8.7/com.weather.app-main-36:/drawable/ic_weather_placeholder.xml"
+        "merged": "com.weather.app-debug-34:/mipmap-xhdpi_ic_launcher_background.png.flat",
+        "source": "com.weather.app-main-36:/mipmap-xhdpi/ic_launcher_background.png"
     },
     {
-        "merged": "/Users/sabin/.gradle/daemon/8.7/com.weather.app-debug-34:/xml_data_extraction_rules.xml.flat",
-        "source": "/Users/sabin/.gradle/daemon/8.7/com.weather.app-main-36:/xml/data_extraction_rules.xml"
+        "merged": "com.weather.app-debug-34:/mipmap-xxxhdpi_ic_launcher_foreground.png.flat",
+        "source": "com.weather.app-main-36:/mipmap-xxxhdpi/ic_launcher_foreground.png"
     },
     {
-        "merged": "/Users/sabin/.gradle/daemon/8.7/com.weather.app-debug-34:/drawable_sleet_day_night.png.flat",
-        "source": "/Users/sabin/.gradle/daemon/8.7/com.weather.app-main-36:/drawable/sleet_day_night.png"
+        "merged": "com.weather.app-debug-34:/layout_item_weather.xml.flat",
+        "source": "com.weather.app-main-36:/layout/item_weather.xml"
     },
     {
-        "merged": "/Users/sabin/.gradle/daemon/8.7/com.weather.app-debug-34:/mipmap-xxxhdpi_ic_launcher_foreground.png.flat",
-        "source": "/Users/sabin/.gradle/daemon/8.7/com.weather.app-main-36:/mipmap-xxxhdpi/ic_launcher_foreground.png"
+        "merged": "com.weather.app-debug-34:/mipmap-xxhdpi_ic_launcher_foreground.png.flat",
+        "source": "com.weather.app-main-36:/mipmap-xxhdpi/ic_launcher_foreground.png"
     },
     {
-        "merged": "/Users/sabin/.gradle/daemon/8.7/com.weather.app-debug-34:/layout_activity_search_city.xml.flat",
-        "source": "/Users/sabin/.gradle/daemon/8.7/com.weather.app-main-36:/layout/activity_search_city.xml"
+        "merged": "com.weather.app-debug-34:/layout_activity_main.xml.flat",
+        "source": "com.weather.app-main-36:/layout/activity_main.xml"
     },
     {
-        "merged": "/Users/sabin/.gradle/daemon/8.7/com.weather.app-debug-34:/drawable_snow_day_night.png.flat",
-        "source": "/Users/sabin/.gradle/daemon/8.7/com.weather.app-main-36:/drawable/snow_day_night.png"
+        "merged": "com.weather.app-debug-34:/mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "com.weather.app-main-36:/mipmap-xhdpi/ic_launcher.png"
     },
     {
-        "merged": "/Users/sabin/.gradle/daemon/8.7/com.weather.app-debug-34:/mipmap-mdpi_ic_launcher_foreground.png.flat",
-        "source": "/Users/sabin/.gradle/daemon/8.7/com.weather.app-main-36:/mipmap-mdpi/ic_launcher_foreground.png"
+        "merged": "com.weather.app-debug-34:/xml_backup_rules.xml.flat",
+        "source": "com.weather.app-main-36:/xml/backup_rules.xml"
     },
     {
-        "merged": "/Users/sabin/.gradle/daemon/8.7/com.weather.app-debug-34:/drawable_partly_cloudy_day.png.flat",
-        "source": "/Users/sabin/.gradle/daemon/8.7/com.weather.app-main-36:/drawable/partly_cloudy_day.png"
+        "merged": "com.weather.app-debug-34:/drawable_partly_cloudy_day.png.flat",
+        "source": "com.weather.app-main-36:/drawable/partly_cloudy_day.png"
     },
     {
-        "merged": "/Users/sabin/.gradle/daemon/8.7/com.weather.app-debug-34:/drawable_cloudy_day_night.png.flat",
-        "source": "/Users/sabin/.gradle/daemon/8.7/com.weather.app-main-36:/drawable/cloudy_day_night.png"
+        "merged": "com.weather.app-debug-34:/drawable_partly_cloudy_night.png.flat",
+        "source": "com.weather.app-main-36:/drawable/partly_cloudy_night.png"
     },
     {
-        "merged": "/Users/sabin/.gradle/daemon/8.7/com.weather.app-debug-34:/mipmap-hdpi_ic_launcher_background.png.flat",
-        "source": "/Users/sabin/.gradle/daemon/8.7/com.weather.app-main-36:/mipmap-hdpi/ic_launcher_background.png"
+        "merged": "com.weather.app-debug-34:/mipmap-mdpi_ic_launcher.png.flat",
+        "source": "com.weather.app-main-36:/mipmap-mdpi/ic_launcher.png"
     },
     {
-        "merged": "/Users/sabin/.gradle/daemon/8.7/com.weather.app-debug-34:/drawable_drizzle_day_night.png.flat",
-        "source": "/Users/sabin/.gradle/daemon/8.7/com.weather.app-main-36:/drawable/drizzle_day_night.png"
+        "merged": "com.weather.app-debug-34:/mipmap-xxxhdpi_ic_launcher_monochrome.png.flat",
+        "source": "com.weather.app-main-36:/mipmap-xxxhdpi/ic_launcher_monochrome.png"
     },
     {
-        "merged": "/Users/sabin/.gradle/daemon/8.7/com.weather.app-debug-34:/drawable_sunrise.png.flat",
-        "source": "/Users/sabin/.gradle/daemon/8.7/com.weather.app-main-36:/drawable/sunrise.png"
+        "merged": "com.weather.app-debug-34:/drawable_error.xml.flat",
+        "source": "com.weather.app-main-36:/drawable/error.xml"
     },
     {
-        "merged": "/Users/sabin/.gradle/daemon/8.7/com.weather.app-debug-34:/mipmap-xhdpi_ic_launcher_monochrome.png.flat",
-        "source": "/Users/sabin/.gradle/daemon/8.7/com.weather.app-main-36:/mipmap-xhdpi/ic_launcher_monochrome.png"
+        "merged": "com.weather.app-debug-34:/mipmap-hdpi_ic_launcher_monochrome.png.flat",
+        "source": "com.weather.app-main-36:/mipmap-hdpi/ic_launcher_monochrome.png"
     },
     {
-        "merged": "/Users/sabin/.gradle/daemon/8.7/com.weather.app-debug-34:/mipmap-xhdpi_ic_launcher_foreground.png.flat",
-        "source": "/Users/sabin/.gradle/daemon/8.7/com.weather.app-main-36:/mipmap-xhdpi/ic_launcher_foreground.png"
+        "merged": "com.weather.app-debug-34:/mipmap-mdpi_ic_launcher_background.png.flat",
+        "source": "com.weather.app-main-36:/mipmap-mdpi/ic_launcher_background.png"
     },
     {
-        "merged": "/Users/sabin/.gradle/daemon/8.7/com.weather.app-debug-34:/drawable_wind_day_night.png.flat",
-        "source": "/Users/sabin/.gradle/daemon/8.7/com.weather.app-main-36:/drawable/wind_day_night.png"
+        "merged": "com.weather.app-debug-34:/drawable_hail_day_night.png.flat",
+        "source": "com.weather.app-main-36:/drawable/hail_day_night.png"
     },
     {
-        "merged": "/Users/sabin/.gradle/daemon/8.7/com.weather.app-debug-34:/drawable_sunset.png.flat",
-        "source": "/Users/sabin/.gradle/daemon/8.7/com.weather.app-main-36:/drawable/sunset.png"
+        "merged": "com.weather.app-debug-34:/mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "com.weather.app-main-36:/mipmap-xxxhdpi/ic_launcher.png"
     },
     {
-        "merged": "/Users/sabin/.gradle/daemon/8.7/com.weather.app-debug-34:/mipmap-xxxhdpi_ic_launcher_monochrome.png.flat",
-        "source": "/Users/sabin/.gradle/daemon/8.7/com.weather.app-main-36:/mipmap-xxxhdpi/ic_launcher_monochrome.png"
+        "merged": "com.weather.app-debug-34:/drawable_ic_launcher_background.xml.flat",
+        "source": "com.weather.app-main-36:/drawable/ic_launcher_background.xml"
     },
     {
-        "merged": "/Users/sabin/.gradle/daemon/8.7/com.weather.app-debug-34:/mipmap-mdpi_ic_launcher_monochrome.png.flat",
-        "source": "/Users/sabin/.gradle/daemon/8.7/com.weather.app-main-36:/mipmap-mdpi/ic_launcher_monochrome.png"
+        "merged": "com.weather.app-debug-34:/drawable_haze_night.png.flat",
+        "source": "com.weather.app-main-36:/drawable/haze_night.png"
     },
     {
-        "merged": "/Users/sabin/.gradle/daemon/8.7/com.weather.app-debug-34:/drawable_haze_night.png.flat",
-        "source": "/Users/sabin/.gradle/daemon/8.7/com.weather.app-main-36:/drawable/haze_night.png"
+        "merged": "com.weather.app-debug-34:/drawable_sunrise.png.flat",
+        "source": "com.weather.app-main-36:/drawable/sunrise.png"
     },
     {
-        "merged": "/Users/sabin/.gradle/daemon/8.7/com.weather.app-debug-34:/xml_backup_rules.xml.flat",
-        "source": "/Users/sabin/.gradle/daemon/8.7/com.weather.app-main-36:/xml/backup_rules.xml"
+        "merged": "com.weather.app-debug-34:/mipmap-xxxhdpi_ic_launcher_background.png.flat",
+        "source": "com.weather.app-main-36:/mipmap-xxxhdpi/ic_launcher_background.png"
     },
     {
-        "merged": "/Users/sabin/.gradle/daemon/8.7/com.weather.app-debug-34:/mipmap-xxhdpi_ic_launcher.png.flat",
-        "source": "/Users/sabin/.gradle/daemon/8.7/com.weather.app-main-36:/mipmap-xxhdpi/ic_launcher.png"
+        "merged": "com.weather.app-debug-34:/drawable_haze_day.png.flat",
+        "source": "com.weather.app-main-36:/drawable/haze_day.png"
     },
     {
-        "merged": "/Users/sabin/.gradle/daemon/8.7/com.weather.app-debug-34:/layout_item_weather.xml.flat",
-        "source": "/Users/sabin/.gradle/daemon/8.7/com.weather.app-main-36:/layout/item_weather.xml"
+        "merged": "com.weather.app-debug-34:/mipmap-hdpi_ic_launcher.png.flat",
+        "source": "com.weather.app-main-36:/mipmap-hdpi/ic_launcher.png"
     },
     {
-        "merged": "/Users/sabin/.gradle/daemon/8.7/com.weather.app-debug-34:/mipmap-anydpi-v26_ic_launcher.xml.flat",
-        "source": "/Users/sabin/.gradle/daemon/8.7/com.weather.app-main-36:/mipmap-anydpi-v26/ic_launcher.xml"
+        "merged": "com.weather.app-debug-34:/drawable_cloudy_day_night.png.flat",
+        "source": "com.weather.app-main-36:/drawable/cloudy_day_night.png"
     },
     {
-        "merged": "/Users/sabin/.gradle/daemon/8.7/com.weather.app-debug-34:/drawable_thunderstorm_day_night.png.flat",
-        "source": "/Users/sabin/.gradle/daemon/8.7/com.weather.app-main-36:/drawable/thunderstorm_day_night.png"
+        "merged": "com.weather.app-debug-34:/drawable_app_logo.png.flat",
+        "source": "com.weather.app-main-36:/drawable/app_logo.png"
     },
     {
-        "merged": "/Users/sabin/.gradle/daemon/8.7/com.weather.app-debug-34:/drawable_error.xml.flat",
-        "source": "/Users/sabin/.gradle/daemon/8.7/com.weather.app-main-36:/drawable/error.xml"
+        "merged": "com.weather.app-debug-34:/xml_data_extraction_rules.xml.flat",
+        "source": "com.weather.app-main-36:/xml/data_extraction_rules.xml"
     },
     {
-        "merged": "/Users/sabin/.gradle/daemon/8.7/com.weather.app-debug-34:/drawable_clear_day.png.flat",
-        "source": "/Users/sabin/.gradle/daemon/8.7/com.weather.app-main-36:/drawable/clear_day.png"
+        "merged": "com.weather.app-debug-34:/drawable_ic_launcher_foreground.xml.flat",
+        "source": "com.weather.app-main-36:/drawable/ic_launcher_foreground.xml"
     },
     {
-        "merged": "/Users/sabin/.gradle/daemon/8.7/com.weather.app-debug-34:/drawable_haze_day.png.flat",
-        "source": "/Users/sabin/.gradle/daemon/8.7/com.weather.app-main-36:/drawable/haze_day.png"
+        "merged": "com.weather.app-debug-34:/drawable_sunset.png.flat",
+        "source": "com.weather.app-main-36:/drawable/sunset.png"
     },
     {
-        "merged": "/Users/sabin/.gradle/daemon/8.7/com.weather.app-debug-34:/drawable_thunder_day_night.png.flat",
-        "source": "/Users/sabin/.gradle/daemon/8.7/com.weather.app-main-36:/drawable/thunder_day_night.png"
+        "merged": "com.weather.app-debug-34:/drawable_thunder_day_night.png.flat",
+        "source": "com.weather.app-main-36:/drawable/thunder_day_night.png"
     },
     {
-        "merged": "/Users/sabin/.gradle/daemon/8.7/com.weather.app-debug-34:/mipmap-mdpi_ic_launcher_background.png.flat",
-        "source": "/Users/sabin/.gradle/daemon/8.7/com.weather.app-main-36:/mipmap-mdpi/ic_launcher_background.png"
+        "merged": "com.weather.app-debug-34:/mipmap-mdpi_ic_launcher_monochrome.png.flat",
+        "source": "com.weather.app-main-36:/mipmap-mdpi/ic_launcher_monochrome.png"
     },
     {
-        "merged": "/Users/sabin/.gradle/daemon/8.7/com.weather.app-debug-34:/layout_activity_main.xml.flat",
-        "source": "/Users/sabin/.gradle/daemon/8.7/com.weather.app-main-36:/layout/activity_main.xml"
+        "merged": "com.weather.app-debug-34:/mipmap-hdpi_ic_launcher_background.png.flat",
+        "source": "com.weather.app-main-36:/mipmap-hdpi/ic_launcher_background.png"
     },
     {
-        "merged": "/Users/sabin/.gradle/daemon/8.7/com.weather.app-debug-34:/drawable_app_logo.png.flat",
-        "source": "/Users/sabin/.gradle/daemon/8.7/com.weather.app-main-36:/drawable/app_logo.png"
+        "merged": "com.weather.app-debug-34:/drawable_ic_weather_placeholder.xml.flat",
+        "source": "com.weather.app-main-36:/drawable/ic_weather_placeholder.xml"
     },
     {
-        "merged": "/Users/sabin/.gradle/daemon/8.7/com.weather.app-debug-34:/mipmap-xxhdpi_ic_launcher_monochrome.png.flat",
-        "source": "/Users/sabin/.gradle/daemon/8.7/com.weather.app-main-36:/mipmap-xxhdpi/ic_launcher_monochrome.png"
+        "merged": "com.weather.app-debug-34:/drawable_rain_day_night.png.flat",
+        "source": "com.weather.app-main-36:/drawable/rain_day_night.png"
     },
     {
-        "merged": "/Users/sabin/.gradle/daemon/8.7/com.weather.app-debug-34:/drawable_clear_night.png.flat",
-        "source": "/Users/sabin/.gradle/daemon/8.7/com.weather.app-main-36:/drawable/clear_night.png"
+        "merged": "com.weather.app-debug-34:/drawable_snow_day_night.png.flat",
+        "source": "com.weather.app-main-36:/drawable/snow_day_night.png"
     },
     {
-        "merged": "/Users/sabin/.gradle/daemon/8.7/com.weather.app-debug-34:/mipmap-xhdpi_ic_launcher.png.flat",
-        "source": "/Users/sabin/.gradle/daemon/8.7/com.weather.app-main-36:/mipmap-xhdpi/ic_launcher.png"
+        "merged": "com.weather.app-debug-34:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "com.weather.app-main-36:/mipmap-anydpi-v26/ic_launcher.xml"
     },
     {
-        "merged": "/Users/sabin/.gradle/daemon/8.7/com.weather.app-debug-34:/mipmap-xxhdpi_ic_launcher_foreground.png.flat",
-        "source": "/Users/sabin/.gradle/daemon/8.7/com.weather.app-main-36:/mipmap-xxhdpi/ic_launcher_foreground.png"
+        "merged": "com.weather.app-debug-34:/mipmap-xhdpi_ic_launcher_foreground.png.flat",
+        "source": "com.weather.app-main-36:/mipmap-xhdpi/ic_launcher_foreground.png"
     },
     {
-        "merged": "/Users/sabin/.gradle/daemon/8.7/com.weather.app-debug-34:/mipmap-xxxhdpi_ic_launcher_background.png.flat",
-        "source": "/Users/sabin/.gradle/daemon/8.7/com.weather.app-main-36:/mipmap-xxxhdpi/ic_launcher_background.png"
-    },
-    {
-        "merged": "/Users/sabin/.gradle/daemon/8.7/com.weather.app-debug-34:/drawable_fog_day_night.png.flat",
-        "source": "/Users/sabin/.gradle/daemon/8.7/com.weather.app-main-36:/drawable/fog_day_night.png"
-    },
-    {
-        "merged": "/Users/sabin/.gradle/daemon/8.7/com.weather.app-debug-34:/mipmap-hdpi_ic_launcher_foreground.png.flat",
-        "source": "/Users/sabin/.gradle/daemon/8.7/com.weather.app-main-36:/mipmap-hdpi/ic_launcher_foreground.png"
-    },
-    {
-        "merged": "/Users/sabin/.gradle/daemon/8.7/com.weather.app-debug-34:/mipmap-mdpi_ic_launcher.png.flat",
-        "source": "/Users/sabin/.gradle/daemon/8.7/com.weather.app-main-36:/mipmap-mdpi/ic_launcher.png"
-    },
-    {
-        "merged": "/Users/sabin/.gradle/daemon/8.7/com.weather.app-debug-34:/mipmap-xhdpi_ic_launcher_background.png.flat",
-        "source": "/Users/sabin/.gradle/daemon/8.7/com.weather.app-main-36:/mipmap-xhdpi/ic_launcher_background.png"
+        "merged": "com.weather.app-debug-34:/mipmap-mdpi_ic_launcher_foreground.png.flat",
+        "source": "com.weather.app-main-36:/mipmap-mdpi/ic_launcher_foreground.png"
     }
 ]

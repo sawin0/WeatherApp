@@ -37,6 +37,7 @@ public class SearchCityActivity extends AppCompatActivity {
         EditText etSearchCity = findViewById(R.id.etSearchCity);
         ListView lvCities = findViewById(R.id.lvCities);
 
+        // Initialize city list and adapter
         cityList = NepalCities.getCities();
         filteredCityList = new ArrayList<>(cityList);
         List<String> cityNames = cityList.stream().map(City::getName).collect(Collectors.toList());
@@ -67,6 +68,7 @@ public class SearchCityActivity extends AppCompatActivity {
         };
         lvCities.setAdapter(adapter);
 
+        // Add text watcher for search functionality
         etSearchCity.addTextChangedListener(new TextWatcher() {
             @Override
             public void beforeTextChanged(CharSequence s, int start, int count, int after) {
@@ -74,7 +76,14 @@ public class SearchCityActivity extends AppCompatActivity {
 
             @Override
             public void onTextChanged(CharSequence s, int start, int before, int count) {
-                filteredCityList = fuzzySearch(cityList, s.toString());
+                String searchText = s.toString().trim();
+                if (searchText.isEmpty()) {
+                    // Show all cities when search field is empty
+                    filteredCityList = new ArrayList<>(cityList);
+                } else {
+                    // Perform fuzzy search when there's text
+                    filteredCityList = fuzzySearch(cityList, searchText);
+                }
                 adapter.clear();
                 adapter.addAll(filteredCityList.stream().map(City::getName).collect(Collectors.toList()));
                 adapter.notifyDataSetChanged();
@@ -85,6 +94,7 @@ public class SearchCityActivity extends AppCompatActivity {
             }
         });
 
+        // Handle city selection
         lvCities.setOnItemClickListener((parent, view, position, id) -> {
             if (!filteredCityList.isEmpty()) {
                 City selectedCity = filteredCityList.get(position);
@@ -102,23 +112,46 @@ public class SearchCityActivity extends AppCompatActivity {
         });
     }
 
+    // Improved fuzzy search using Levenshtein distance
     private List<City> fuzzySearch(List<City> cities, String query) {
+        if (query == null || query.trim().isEmpty()) {
+            return new ArrayList<>(cities);
+        }
         return cities.stream()
-                .filter(city -> fuzzyMatch(city.getName(), query))
+                .filter(city -> similarity(city.getName(), query) > 0.4) // Adjust threshold as needed
+                .sorted((c1, c2) -> Double.compare(
+                        similarity(c2.getName(), query), similarity(c1.getName(), query))) // Sort by similarity
                 .collect(Collectors.toList());
     }
 
-    private boolean fuzzyMatch(String text, String query) {
-        int textIndex = 0;
-        int queryIndex = 0;
+    // Calculate similarity using normalized Levenshtein distance
+    private double similarity(String text, String query) {
+        int maxLength = Math.max(text.length(), query.length());
+        if (maxLength == 0) return 1.0;
+        return (maxLength - levenshteinDistance(text.toLowerCase(), query.toLowerCase())) / (double) maxLength;
+    }
 
-        while (textIndex < text.length() && queryIndex < query.length()) {
-            if (Character.toLowerCase(text.charAt(textIndex)) == Character.toLowerCase(query.charAt(queryIndex))) {
-                queryIndex++;
+    // Levenshtein distance implementation
+    private int levenshteinDistance(String a, String b) {
+        int[][] dp = new int[a.length() + 1][b.length() + 1];
+
+        for (int i = 0; i <= a.length(); i++) {
+            for (int j = 0; j <= b.length(); j++) {
+                if (i == 0) {
+                    dp[i][j] = j;
+                } else if (j == 0) {
+                    dp[i][j] = i;
+                } else {
+                    dp[i][j] = Math.min(
+                            Math.min(
+                                    dp[i - 1][j] + 1,       // Deletion
+                                    dp[i][j - 1] + 1        // Insertion
+                            ),
+                            dp[i - 1][j - 1] + (a.charAt(i - 1) == b.charAt(j - 1) ? 0 : 1) // Substitution
+                    );
+                }
             }
-            textIndex++;
         }
-
-        return queryIndex == query.length();
+        return dp[a.length()][b.length()];
     }
 }

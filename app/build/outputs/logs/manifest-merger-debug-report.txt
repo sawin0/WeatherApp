@@ -1,57 +1,57 @@
 -- Merging decision tree log ---
 manifest
-ADDED from /Users/sabin/StudioProjects/WeatherApp/app/src/main/AndroidManifest.xml:2:1-33:12
-INJECTED from /Users/sabin/StudioProjects/WeatherApp/app/src/main/AndroidManifest.xml:2:1-33:12
-INJECTED from /Users/sabin/StudioProjects/WeatherApp/app/src/main/AndroidManifest.xml:2:1-33:12
-INJECTED from /Users/sabin/StudioProjects/WeatherApp/app/src/main/AndroidManifest.xml:2:1-33:12
-MERGED from [com.google.android.material:material:1.12.0] /Users/sabin/.gradle/caches/transforms-4/3fa80a2303bac531867bcb244fc1925e/transformed/material-1.12.0/AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] /Users/sabin/.gradle/caches/transforms-4/03e822fffd376160b8e4d79ced3aceae/transformed/constraintlayout-2.1.4/AndroidManifest.xml:2:1-11:12
-MERGED from [androidx.appcompat:appcompat-resources:1.7.0] /Users/sabin/.gradle/caches/transforms-4/537f651fb9f020862421dedbffaf5099/transformed/appcompat-resources-1.7.0/AndroidManifest.xml:2:1-7:12
-MERGED from [androidx.appcompat:appcompat:1.7.0] /Users/sabin/.gradle/caches/transforms-4/8576c7747f03e32e0960493e26e5f975/transformed/appcompat-1.7.0/AndroidManifest.xml:2:1-7:12
-MERGED from [com.github.bumptech.glide:glide:4.16.0] /Users/sabin/.gradle/caches/transforms-4/0ba9107ecdd98ae87299a01d2dfe25ce/transformed/glide-4.16.0/AndroidManifest.xml:2:1-9:12
-MERGED from [androidx.viewpager2:viewpager2:1.0.0] /Users/sabin/.gradle/caches/transforms-4/883f9eac77377f7fa9a388239db4ad29/transformed/viewpager2-1.0.0/AndroidManifest.xml:17:1-24:12
-MERGED from [com.google.android.gms:play-services-location:21.3.0] /Users/sabin/.gradle/caches/transforms-4/c6def3f1abfb3f822f77cacdd4c2806e/transformed/play-services-location-21.3.0/AndroidManifest.xml:2:1-8:12
-MERGED from [com.google.android.gms:play-services-base:18.5.0] /Users/sabin/.gradle/caches/transforms-4/7989b02b731d199a408f2e9cb02424d8/transformed/play-services-base-18.5.0/AndroidManifest.xml:2:1-7:12
-MERGED from [com.google.android.gms:play-services-tasks:18.2.0] /Users/sabin/.gradle/caches/transforms-4/42cddae5fcfba209c0b438233463f57d/transformed/play-services-tasks-18.2.0/AndroidManifest.xml:2:1-5:12
-MERGED from [com.google.android.gms:play-services-basement:18.4.0] /Users/sabin/.gradle/caches/transforms-4/b5178080aa2bef2e5b2935056008a49b/transformed/play-services-basement-18.4.0/AndroidManifest.xml:2:1-9:12
-MERGED from [androidx.fragment:fragment:1.5.4] /Users/sabin/.gradle/caches/transforms-4/cdd9b9762bf6710eeb202cbb49027cf0/transformed/fragment-1.5.4/AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.activity:activity:1.9.0] /Users/sabin/.gradle/caches/transforms-4/02f04eec98f247197055208f8257cf08/transformed/activity-1.9.0/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.savedstate:savedstate:1.2.1] /Users/sabin/.gradle/caches/transforms-4/7847a70a480fe5e754feaaa0599500ff/transformed/savedstate-1.2.1/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.emoji2:emoji2-views-helper:1.3.0] /Users/sabin/.gradle/caches/transforms-4/85a74766ca2d8527c41aa953c6738163/transformed/emoji2-views-helper-1.3.0/AndroidManifest.xml:2:1-7:12
-MERGED from [androidx.emoji2:emoji2:1.3.0] /Users/sabin/.gradle/caches/transforms-4/66bbe5a34d76d0f7c18417a5662478ad/transformed/emoji2-1.3.0/AndroidManifest.xml:17:1-35:12
-MERGED from [androidx.transition:transition:1.5.0] /Users/sabin/.gradle/caches/transforms-4/1ff87ee5ab29abf11c709bfd942fd76b/transformed/transition-1.5.0/AndroidManifest.xml:2:1-7:12
-MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] /Users/sabin/.gradle/caches/transforms-4/ba2f5db89cd1f812b17def0559f4efb7/transformed/dynamicanimation-1.0.0/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/sabin/.gradle/caches/transforms-4/ec5a62d30fc7d2c4e77f9e8935dc1694/transformed/legacy-support-core-utils-1.0.0/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.loader:loader:1.0.0] /Users/sabin/.gradle/caches/transforms-4/92568d1c302941f771e2b75879e43d12/transformed/loader-1.0.0/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.lifecycle:lifecycle-livedata:2.6.2] /Users/sabin/.gradle/caches/transforms-4/8fee0b57f1d084ae31d40f16547ebbdc/transformed/lifecycle-livedata-2.6.2/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.6.2] /Users/sabin/.gradle/caches/transforms-4/36d733cb5de4c7c1ede93eef42fa7363/transformed/lifecycle-viewmodel-2.6.2/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.lifecycle:lifecycle-process:2.6.2] /Users/sabin/.gradle/caches/transforms-4/6f0f8f56523ddadf639a1bfbe5dc8941/transformed/lifecycle-process-2.6.2/AndroidManifest.xml:17:1-35:12
-MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.6.2] /Users/sabin/.gradle/caches/transforms-4/940cd09e1f37616faa088c6a24d5372f/transformed/lifecycle-livedata-core-2.6.2/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.lifecycle:lifecycle-runtime:2.6.2] /Users/sabin/.gradle/caches/transforms-4/53a2951ab84b3bdf265ce78b4a898bac/transformed/lifecycle-runtime-2.6.2/AndroidManifest.xml:2:1-7:12
-MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.6.2] /Users/sabin/.gradle/caches/transforms-4/1f643c8c52367162162b56542890a367/transformed/lifecycle-viewmodel-savedstate-2.6.2/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.core:core-ktx:1.13.0] /Users/sabin/.gradle/caches/transforms-4/b3b4c381b1714fd73f041bc188ef7161/transformed/core-ktx-1.13.0/AndroidManifest.xml:2:1-7:12
-MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] /Users/sabin/.gradle/caches/transforms-4/d3fe1dca6adb504a66e753b6ecdc6716/transformed/drawerlayout-1.1.1/AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /Users/sabin/.gradle/caches/transforms-4/5b5d55f0097c5e28489f4a1d6c5c2c1e/transformed/coordinatorlayout-1.1.0/AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/sabin/.gradle/caches/transforms-4/1eba5ca2e19cee40f50ad9439f99db2a/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/sabin/.gradle/caches/transforms-4/1aacd0555515fb5c239d8a8576f0cce0/transformed/vectordrawable-1.1.0/AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/sabin/.gradle/caches/transforms-4/e5ce8d5b0791b7b8dfeb86fa8fe5bc05/transformed/viewpager-1.0.0/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.recyclerview:recyclerview:1.1.0] /Users/sabin/.gradle/caches/transforms-4/ae733ecd5a2bb00d26b8d6467002bb5d/transformed/recyclerview-1.1.0/AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.customview:customview:1.1.0] /Users/sabin/.gradle/caches/transforms-4/f9f00fee7581a102062fe082da78189d/transformed/customview-1.1.0/AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.core:core:1.13.0] /Users/sabin/.gradle/caches/transforms-4/e385fa785d4dc1a25095b3c48733890e/transformed/core-1.13.0/AndroidManifest.xml:17:1-30:12
-MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/sabin/.gradle/caches/transforms-4/7baef6fac9c8b356f4f8d811f977672a/transformed/cursoradapter-1.0.0/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/sabin/.gradle/caches/transforms-4/c74d7d7b44790d0211dd0840b8f59f27/transformed/profileinstaller-1.3.1/AndroidManifest.xml:17:1-55:12
-MERGED from [androidx.cardview:cardview:1.0.0] /Users/sabin/.gradle/caches/transforms-4/d22cd374509e054bc34c28f2cc9f2a01/transformed/cardview-1.0.0/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/sabin/.gradle/caches/transforms-4/495d733b467d28c8dd3d1e3fb6692207/transformed/startup-runtime-1.1.1/AndroidManifest.xml:17:1-33:12
-MERGED from [androidx.tracing:tracing:1.0.0] /Users/sabin/.gradle/caches/transforms-4/8cb8e8a38006cca04ff9608d9c6e8668/transformed/tracing-1.0.0/AndroidManifest.xml:17:1-24:12
-MERGED from [com.github.bumptech.glide:gifdecoder:4.16.0] /Users/sabin/.gradle/caches/transforms-4/0568349c95ae9355df7c57db8796a20e/transformed/gifdecoder-4.16.0/AndroidManifest.xml:2:1-9:12
-MERGED from [androidx.exifinterface:exifinterface:1.3.6] /Users/sabin/.gradle/caches/transforms-4/4139e4d31f7a61743e941b293a6748db/transformed/exifinterface-1.3.6/AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/sabin/.gradle/caches/transforms-4/48677ac90ab22b5176609fd961663536/transformed/interpolator-1.0.0/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/sabin/.gradle/caches/transforms-4/2478fc615c664e862f9c634abb728c58/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:17:1-27:12
-MERGED from [androidx.arch.core:core-runtime:2.2.0] /Users/sabin/.gradle/caches/transforms-4/0ea016aeb7b1b3789ecbe357b073f30b/transformed/core-runtime-2.2.0/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/sabin/.gradle/caches/transforms-4/bb749ff28045b2428c388ce0c7f55d99/transformed/documentfile-1.0.0/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/sabin/.gradle/caches/transforms-4/fcf364551275c8fa6d7cc166757d4e5a/transformed/localbroadcastmanager-1.0.0/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.print:print:1.0.0] /Users/sabin/.gradle/caches/transforms-4/0d4d9c8e1630096c7a4f348661b5a5d2/transformed/print-1.0.0/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.annotation:annotation-experimental:1.4.0] /Users/sabin/.gradle/caches/transforms-4/c858ff9eab722512587bb7f2e52d1a03/transformed/annotation-experimental-1.4.0/AndroidManifest.xml:2:1-7:12
+ADDED from /Users/sabin/StudioProjects/WeatherApp/app/src/main/AndroidManifest.xml:2:1-34:12
+INJECTED from /Users/sabin/StudioProjects/WeatherApp/app/src/main/AndroidManifest.xml:2:1-34:12
+INJECTED from /Users/sabin/StudioProjects/WeatherApp/app/src/main/AndroidManifest.xml:2:1-34:12
+INJECTED from /Users/sabin/StudioProjects/WeatherApp/app/src/main/AndroidManifest.xml:2:1-34:12
+MERGED from [com.google.android.material:material:1.12.0] /Library/Java/JavaVirtualMachines/openlogic-openjdk-11.jdk/caches/transforms-4/2b6d223f5767a785e1e52854a455ccb8/transformed/material-1.12.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] /Library/Java/JavaVirtualMachines/openlogic-openjdk-11.jdk/caches/transforms-4/3032de3fbb443816837d52340f0f7619/transformed/constraintlayout-2.1.4/AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.appcompat:appcompat-resources:1.7.0] /Library/Java/JavaVirtualMachines/openlogic-openjdk-11.jdk/caches/transforms-4/2b99fbbebf0f6f1efa79ef339241fbe0/transformed/appcompat-resources-1.7.0/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.appcompat:appcompat:1.7.0] /Library/Java/JavaVirtualMachines/openlogic-openjdk-11.jdk/caches/transforms-4/06a963fba6c81a2b11d0dda5db049aef/transformed/appcompat-1.7.0/AndroidManifest.xml:2:1-7:12
+MERGED from [com.github.bumptech.glide:glide:4.16.0] /Library/Java/JavaVirtualMachines/openlogic-openjdk-11.jdk/caches/transforms-4/13d3fe8dcb10353b10050aa465e9bec3/transformed/glide-4.16.0/AndroidManifest.xml:2:1-9:12
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /Library/Java/JavaVirtualMachines/openlogic-openjdk-11.jdk/caches/transforms-4/d0801b310ccc62ad1d8c5302b96c549a/transformed/viewpager2-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-location:21.3.0] /Library/Java/JavaVirtualMachines/openlogic-openjdk-11.jdk/caches/transforms-4/35e662f42ce26c7cd20ee2531e52d8dc/transformed/play-services-location-21.3.0/AndroidManifest.xml:2:1-8:12
+MERGED from [com.google.android.gms:play-services-base:18.5.0] /Library/Java/JavaVirtualMachines/openlogic-openjdk-11.jdk/caches/transforms-4/8cb0992a1e0a629b816f0a00f04be59f/transformed/play-services-base-18.5.0/AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.android.gms:play-services-tasks:18.2.0] /Library/Java/JavaVirtualMachines/openlogic-openjdk-11.jdk/caches/transforms-4/045eef977ce13addff9dfed8c14797f6/transformed/play-services-tasks-18.2.0/AndroidManifest.xml:2:1-5:12
+MERGED from [com.google.android.gms:play-services-basement:18.4.0] /Library/Java/JavaVirtualMachines/openlogic-openjdk-11.jdk/caches/transforms-4/fae3eb4ab33d3349d8419cd1ccb0613d/transformed/play-services-basement-18.4.0/AndroidManifest.xml:2:1-9:12
+MERGED from [androidx.fragment:fragment:1.5.4] /Library/Java/JavaVirtualMachines/openlogic-openjdk-11.jdk/caches/transforms-4/363f6a438c940be99fa32bdeada0dd51/transformed/fragment-1.5.4/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.activity:activity:1.9.0] /Library/Java/JavaVirtualMachines/openlogic-openjdk-11.jdk/caches/transforms-4/43b973f76d8495774ddacc367fed8041/transformed/activity-1.9.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.savedstate:savedstate:1.2.1] /Library/Java/JavaVirtualMachines/openlogic-openjdk-11.jdk/caches/transforms-4/5740e5e40d6d7dcdbeebebb53d30c3c0/transformed/savedstate-1.2.1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.emoji2:emoji2-views-helper:1.3.0] /Library/Java/JavaVirtualMachines/openlogic-openjdk-11.jdk/caches/transforms-4/8583f2ca132a011009ee78f4e649bf3c/transformed/emoji2-views-helper-1.3.0/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.emoji2:emoji2:1.3.0] /Library/Java/JavaVirtualMachines/openlogic-openjdk-11.jdk/caches/transforms-4/44e41e68a176e56310c7f1352cacd1bf/transformed/emoji2-1.3.0/AndroidManifest.xml:17:1-35:12
+MERGED from [androidx.transition:transition:1.5.0] /Library/Java/JavaVirtualMachines/openlogic-openjdk-11.jdk/caches/transforms-4/d3929c527d4ca199d39b8044e04588c1/transformed/transition-1.5.0/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] /Library/Java/JavaVirtualMachines/openlogic-openjdk-11.jdk/caches/transforms-4/965c848d7df78e19b8cfbf48462343bf/transformed/dynamicanimation-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Library/Java/JavaVirtualMachines/openlogic-openjdk-11.jdk/caches/transforms-4/c4749191622b4fe3b2281158985f4e7f/transformed/legacy-support-core-utils-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] /Library/Java/JavaVirtualMachines/openlogic-openjdk-11.jdk/caches/transforms-4/dedb7da845c9c1951cf9bbec1a60eb17/transformed/loader-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.6.2] /Library/Java/JavaVirtualMachines/openlogic-openjdk-11.jdk/caches/transforms-4/c33e5d0bf092baecf76eab8d94288356/transformed/lifecycle-livedata-2.6.2/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.6.2] /Library/Java/JavaVirtualMachines/openlogic-openjdk-11.jdk/caches/transforms-4/7b0c8c27d1dceac536765c3187550b9f/transformed/lifecycle-viewmodel-2.6.2/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.2] /Library/Java/JavaVirtualMachines/openlogic-openjdk-11.jdk/caches/transforms-4/4c0c4e2035f53c5ab4697bdb8ad96090/transformed/lifecycle-process-2.6.2/AndroidManifest.xml:17:1-35:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.6.2] /Library/Java/JavaVirtualMachines/openlogic-openjdk-11.jdk/caches/transforms-4/a4f60d31e0b0e0405e188bf71d691fb7/transformed/lifecycle-livedata-core-2.6.2/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.6.2] /Library/Java/JavaVirtualMachines/openlogic-openjdk-11.jdk/caches/transforms-4/b5f7556516629b3b58bfccbd09889d45/transformed/lifecycle-runtime-2.6.2/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.6.2] /Library/Java/JavaVirtualMachines/openlogic-openjdk-11.jdk/caches/transforms-4/bce221f21c014db5aa76420b9440977d/transformed/lifecycle-viewmodel-savedstate-2.6.2/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core-ktx:1.13.0] /Library/Java/JavaVirtualMachines/openlogic-openjdk-11.jdk/caches/transforms-4/ce593b51e8a7adfe5c13913761884e3d/transformed/core-ktx-1.13.0/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] /Library/Java/JavaVirtualMachines/openlogic-openjdk-11.jdk/caches/transforms-4/f625d730d3bfe8cef51f6137dd050265/transformed/drawerlayout-1.1.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /Library/Java/JavaVirtualMachines/openlogic-openjdk-11.jdk/caches/transforms-4/ce4a0c36e54c3ecbd6bd63fd8aed4545/transformed/coordinatorlayout-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Library/Java/JavaVirtualMachines/openlogic-openjdk-11.jdk/caches/transforms-4/54ad151bfb7c43f3832916611d21c24c/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Library/Java/JavaVirtualMachines/openlogic-openjdk-11.jdk/caches/transforms-4/7509ea91c7fa56e25a93fc6942e86fac/transformed/vectordrawable-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Library/Java/JavaVirtualMachines/openlogic-openjdk-11.jdk/caches/transforms-4/a932d9ebb48f0b1549e118ffe55f3182/transformed/viewpager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /Library/Java/JavaVirtualMachines/openlogic-openjdk-11.jdk/caches/transforms-4/ef6a37f5e1c3a2b42db800526ddc91ac/transformed/recyclerview-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.customview:customview:1.1.0] /Library/Java/JavaVirtualMachines/openlogic-openjdk-11.jdk/caches/transforms-4/09abdd9046221a230a658e595469204b/transformed/customview-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.core:core:1.13.0] /Library/Java/JavaVirtualMachines/openlogic-openjdk-11.jdk/caches/transforms-4/fd1c33530333218697e6e70a42bad99d/transformed/core-1.13.0/AndroidManifest.xml:17:1-30:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Library/Java/JavaVirtualMachines/openlogic-openjdk-11.jdk/caches/transforms-4/88ae71bfaa997e1c45fac4adb5eb5e46/transformed/cursoradapter-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.1] /Library/Java/JavaVirtualMachines/openlogic-openjdk-11.jdk/caches/transforms-4/74915a34133dd57d16a9df8cb04e07ba/transformed/profileinstaller-1.3.1/AndroidManifest.xml:17:1-55:12
+MERGED from [androidx.cardview:cardview:1.0.0] /Library/Java/JavaVirtualMachines/openlogic-openjdk-11.jdk/caches/transforms-4/7ad94c18eb7932123e069f6958612650/transformed/cardview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.startup:startup-runtime:1.1.1] /Library/Java/JavaVirtualMachines/openlogic-openjdk-11.jdk/caches/transforms-4/b6c0d33273bbce37f603375a3ea8b590/transformed/startup-runtime-1.1.1/AndroidManifest.xml:17:1-33:12
+MERGED from [androidx.tracing:tracing:1.0.0] /Library/Java/JavaVirtualMachines/openlogic-openjdk-11.jdk/caches/transforms-4/68e79f0c68e416c08a31253e75503f6f/transformed/tracing-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [com.github.bumptech.glide:gifdecoder:4.16.0] /Library/Java/JavaVirtualMachines/openlogic-openjdk-11.jdk/caches/transforms-4/8eab272b4880e46818128442ccd95773/transformed/gifdecoder-4.16.0/AndroidManifest.xml:2:1-9:12
+MERGED from [androidx.exifinterface:exifinterface:1.3.6] /Library/Java/JavaVirtualMachines/openlogic-openjdk-11.jdk/caches/transforms-4/be2fc2163933309a708ca9ddddec0df3/transformed/exifinterface-1.3.6/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Library/Java/JavaVirtualMachines/openlogic-openjdk-11.jdk/caches/transforms-4/075b4608d4393bb4a4236a8e6d175815/transformed/interpolator-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Library/Java/JavaVirtualMachines/openlogic-openjdk-11.jdk/caches/transforms-4/da0a6ceab1b2a2b624106eaa87f9ee93/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.arch.core:core-runtime:2.2.0] /Library/Java/JavaVirtualMachines/openlogic-openjdk-11.jdk/caches/transforms-4/40260ad7f1f665f5b72d9a70956d1a3f/transformed/core-runtime-2.2.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Library/Java/JavaVirtualMachines/openlogic-openjdk-11.jdk/caches/transforms-4/d783c026db6732f2a70439f9f260783c/transformed/documentfile-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Library/Java/JavaVirtualMachines/openlogic-openjdk-11.jdk/caches/transforms-4/4df62e767c8f3793ec0320a2824caa46/transformed/localbroadcastmanager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] /Library/Java/JavaVirtualMachines/openlogic-openjdk-11.jdk/caches/transforms-4/288170e97154a3516e59037dcad18516/transformed/print-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.annotation:annotation-experimental:1.4.0] /Library/Java/JavaVirtualMachines/openlogic-openjdk-11.jdk/caches/transforms-4/31004d40200e320bd05dcf294f385e2e/transformed/annotation-experimental-1.4.0/AndroidManifest.xml:2:1-7:12
 	package
 		INJECTED from /Users/sabin/StudioProjects/WeatherApp/app/src/main/AndroidManifest.xml
 	android:versionName
@@ -75,46 +75,48 @@ ADDED from /Users/sabin/StudioProjects/WeatherApp/app/src/main/AndroidManifest.x
 	android:name
 		ADDED from /Users/sabin/StudioProjects/WeatherApp/app/src/main/AndroidManifest.xml:7:22-78
 application
-ADDED from /Users/sabin/StudioProjects/WeatherApp/app/src/main/AndroidManifest.xml:9:5-31:19
-INJECTED from /Users/sabin/StudioProjects/WeatherApp/app/src/main/AndroidManifest.xml:9:5-31:19
-MERGED from [com.google.android.material:material:1.12.0] /Users/sabin/.gradle/caches/transforms-4/3fa80a2303bac531867bcb244fc1925e/transformed/material-1.12.0/AndroidManifest.xml:22:5-20
-MERGED from [com.google.android.material:material:1.12.0] /Users/sabin/.gradle/caches/transforms-4/3fa80a2303bac531867bcb244fc1925e/transformed/material-1.12.0/AndroidManifest.xml:22:5-20
-MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] /Users/sabin/.gradle/caches/transforms-4/03e822fffd376160b8e4d79ced3aceae/transformed/constraintlayout-2.1.4/AndroidManifest.xml:9:5-20
-MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] /Users/sabin/.gradle/caches/transforms-4/03e822fffd376160b8e4d79ced3aceae/transformed/constraintlayout-2.1.4/AndroidManifest.xml:9:5-20
-MERGED from [com.google.android.gms:play-services-location:21.3.0] /Users/sabin/.gradle/caches/transforms-4/c6def3f1abfb3f822f77cacdd4c2806e/transformed/play-services-location-21.3.0/AndroidManifest.xml:6:5-20
-MERGED from [com.google.android.gms:play-services-location:21.3.0] /Users/sabin/.gradle/caches/transforms-4/c6def3f1abfb3f822f77cacdd4c2806e/transformed/play-services-location-21.3.0/AndroidManifest.xml:6:5-20
-MERGED from [com.google.android.gms:play-services-base:18.5.0] /Users/sabin/.gradle/caches/transforms-4/7989b02b731d199a408f2e9cb02424d8/transformed/play-services-base-18.5.0/AndroidManifest.xml:4:5-6:19
-MERGED from [com.google.android.gms:play-services-base:18.5.0] /Users/sabin/.gradle/caches/transforms-4/7989b02b731d199a408f2e9cb02424d8/transformed/play-services-base-18.5.0/AndroidManifest.xml:4:5-6:19
-MERGED from [com.google.android.gms:play-services-tasks:18.2.0] /Users/sabin/.gradle/caches/transforms-4/42cddae5fcfba209c0b438233463f57d/transformed/play-services-tasks-18.2.0/AndroidManifest.xml:4:5-20
-MERGED from [com.google.android.gms:play-services-tasks:18.2.0] /Users/sabin/.gradle/caches/transforms-4/42cddae5fcfba209c0b438233463f57d/transformed/play-services-tasks-18.2.0/AndroidManifest.xml:4:5-20
-MERGED from [com.google.android.gms:play-services-basement:18.4.0] /Users/sabin/.gradle/caches/transforms-4/b5178080aa2bef2e5b2935056008a49b/transformed/play-services-basement-18.4.0/AndroidManifest.xml:5:5-7:19
-MERGED from [com.google.android.gms:play-services-basement:18.4.0] /Users/sabin/.gradle/caches/transforms-4/b5178080aa2bef2e5b2935056008a49b/transformed/play-services-basement-18.4.0/AndroidManifest.xml:5:5-7:19
-MERGED from [androidx.emoji2:emoji2:1.3.0] /Users/sabin/.gradle/caches/transforms-4/66bbe5a34d76d0f7c18417a5662478ad/transformed/emoji2-1.3.0/AndroidManifest.xml:23:5-33:19
-MERGED from [androidx.emoji2:emoji2:1.3.0] /Users/sabin/.gradle/caches/transforms-4/66bbe5a34d76d0f7c18417a5662478ad/transformed/emoji2-1.3.0/AndroidManifest.xml:23:5-33:19
-MERGED from [androidx.lifecycle:lifecycle-process:2.6.2] /Users/sabin/.gradle/caches/transforms-4/6f0f8f56523ddadf639a1bfbe5dc8941/transformed/lifecycle-process-2.6.2/AndroidManifest.xml:23:5-33:19
-MERGED from [androidx.lifecycle:lifecycle-process:2.6.2] /Users/sabin/.gradle/caches/transforms-4/6f0f8f56523ddadf639a1bfbe5dc8941/transformed/lifecycle-process-2.6.2/AndroidManifest.xml:23:5-33:19
-MERGED from [androidx.core:core:1.13.0] /Users/sabin/.gradle/caches/transforms-4/e385fa785d4dc1a25095b3c48733890e/transformed/core-1.13.0/AndroidManifest.xml:28:5-89
-MERGED from [androidx.core:core:1.13.0] /Users/sabin/.gradle/caches/transforms-4/e385fa785d4dc1a25095b3c48733890e/transformed/core-1.13.0/AndroidManifest.xml:28:5-89
-MERGED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/sabin/.gradle/caches/transforms-4/c74d7d7b44790d0211dd0840b8f59f27/transformed/profileinstaller-1.3.1/AndroidManifest.xml:23:5-53:19
-MERGED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/sabin/.gradle/caches/transforms-4/c74d7d7b44790d0211dd0840b8f59f27/transformed/profileinstaller-1.3.1/AndroidManifest.xml:23:5-53:19
-MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/sabin/.gradle/caches/transforms-4/495d733b467d28c8dd3d1e3fb6692207/transformed/startup-runtime-1.1.1/AndroidManifest.xml:25:5-31:19
-MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/sabin/.gradle/caches/transforms-4/495d733b467d28c8dd3d1e3fb6692207/transformed/startup-runtime-1.1.1/AndroidManifest.xml:25:5-31:19
-MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/sabin/.gradle/caches/transforms-4/2478fc615c664e862f9c634abb728c58/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:24:5-25:19
-MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/sabin/.gradle/caches/transforms-4/2478fc615c664e862f9c634abb728c58/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:24:5-25:19
+ADDED from /Users/sabin/StudioProjects/WeatherApp/app/src/main/AndroidManifest.xml:9:5-32:19
+INJECTED from /Users/sabin/StudioProjects/WeatherApp/app/src/main/AndroidManifest.xml:9:5-32:19
+MERGED from [com.google.android.material:material:1.12.0] /Library/Java/JavaVirtualMachines/openlogic-openjdk-11.jdk/caches/transforms-4/2b6d223f5767a785e1e52854a455ccb8/transformed/material-1.12.0/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.12.0] /Library/Java/JavaVirtualMachines/openlogic-openjdk-11.jdk/caches/transforms-4/2b6d223f5767a785e1e52854a455ccb8/transformed/material-1.12.0/AndroidManifest.xml:22:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] /Library/Java/JavaVirtualMachines/openlogic-openjdk-11.jdk/caches/transforms-4/3032de3fbb443816837d52340f0f7619/transformed/constraintlayout-2.1.4/AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] /Library/Java/JavaVirtualMachines/openlogic-openjdk-11.jdk/caches/transforms-4/3032de3fbb443816837d52340f0f7619/transformed/constraintlayout-2.1.4/AndroidManifest.xml:9:5-20
+MERGED from [com.google.android.gms:play-services-location:21.3.0] /Library/Java/JavaVirtualMachines/openlogic-openjdk-11.jdk/caches/transforms-4/35e662f42ce26c7cd20ee2531e52d8dc/transformed/play-services-location-21.3.0/AndroidManifest.xml:6:5-20
+MERGED from [com.google.android.gms:play-services-location:21.3.0] /Library/Java/JavaVirtualMachines/openlogic-openjdk-11.jdk/caches/transforms-4/35e662f42ce26c7cd20ee2531e52d8dc/transformed/play-services-location-21.3.0/AndroidManifest.xml:6:5-20
+MERGED from [com.google.android.gms:play-services-base:18.5.0] /Library/Java/JavaVirtualMachines/openlogic-openjdk-11.jdk/caches/transforms-4/8cb0992a1e0a629b816f0a00f04be59f/transformed/play-services-base-18.5.0/AndroidManifest.xml:4:5-6:19
+MERGED from [com.google.android.gms:play-services-base:18.5.0] /Library/Java/JavaVirtualMachines/openlogic-openjdk-11.jdk/caches/transforms-4/8cb0992a1e0a629b816f0a00f04be59f/transformed/play-services-base-18.5.0/AndroidManifest.xml:4:5-6:19
+MERGED from [com.google.android.gms:play-services-tasks:18.2.0] /Library/Java/JavaVirtualMachines/openlogic-openjdk-11.jdk/caches/transforms-4/045eef977ce13addff9dfed8c14797f6/transformed/play-services-tasks-18.2.0/AndroidManifest.xml:4:5-20
+MERGED from [com.google.android.gms:play-services-tasks:18.2.0] /Library/Java/JavaVirtualMachines/openlogic-openjdk-11.jdk/caches/transforms-4/045eef977ce13addff9dfed8c14797f6/transformed/play-services-tasks-18.2.0/AndroidManifest.xml:4:5-20
+MERGED from [com.google.android.gms:play-services-basement:18.4.0] /Library/Java/JavaVirtualMachines/openlogic-openjdk-11.jdk/caches/transforms-4/fae3eb4ab33d3349d8419cd1ccb0613d/transformed/play-services-basement-18.4.0/AndroidManifest.xml:5:5-7:19
+MERGED from [com.google.android.gms:play-services-basement:18.4.0] /Library/Java/JavaVirtualMachines/openlogic-openjdk-11.jdk/caches/transforms-4/fae3eb4ab33d3349d8419cd1ccb0613d/transformed/play-services-basement-18.4.0/AndroidManifest.xml:5:5-7:19
+MERGED from [androidx.emoji2:emoji2:1.3.0] /Library/Java/JavaVirtualMachines/openlogic-openjdk-11.jdk/caches/transforms-4/44e41e68a176e56310c7f1352cacd1bf/transformed/emoji2-1.3.0/AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.emoji2:emoji2:1.3.0] /Library/Java/JavaVirtualMachines/openlogic-openjdk-11.jdk/caches/transforms-4/44e41e68a176e56310c7f1352cacd1bf/transformed/emoji2-1.3.0/AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.2] /Library/Java/JavaVirtualMachines/openlogic-openjdk-11.jdk/caches/transforms-4/4c0c4e2035f53c5ab4697bdb8ad96090/transformed/lifecycle-process-2.6.2/AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.2] /Library/Java/JavaVirtualMachines/openlogic-openjdk-11.jdk/caches/transforms-4/4c0c4e2035f53c5ab4697bdb8ad96090/transformed/lifecycle-process-2.6.2/AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.core:core:1.13.0] /Library/Java/JavaVirtualMachines/openlogic-openjdk-11.jdk/caches/transforms-4/fd1c33530333218697e6e70a42bad99d/transformed/core-1.13.0/AndroidManifest.xml:28:5-89
+MERGED from [androidx.core:core:1.13.0] /Library/Java/JavaVirtualMachines/openlogic-openjdk-11.jdk/caches/transforms-4/fd1c33530333218697e6e70a42bad99d/transformed/core-1.13.0/AndroidManifest.xml:28:5-89
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.1] /Library/Java/JavaVirtualMachines/openlogic-openjdk-11.jdk/caches/transforms-4/74915a34133dd57d16a9df8cb04e07ba/transformed/profileinstaller-1.3.1/AndroidManifest.xml:23:5-53:19
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.1] /Library/Java/JavaVirtualMachines/openlogic-openjdk-11.jdk/caches/transforms-4/74915a34133dd57d16a9df8cb04e07ba/transformed/profileinstaller-1.3.1/AndroidManifest.xml:23:5-53:19
+MERGED from [androidx.startup:startup-runtime:1.1.1] /Library/Java/JavaVirtualMachines/openlogic-openjdk-11.jdk/caches/transforms-4/b6c0d33273bbce37f603375a3ea8b590/transformed/startup-runtime-1.1.1/AndroidManifest.xml:25:5-31:19
+MERGED from [androidx.startup:startup-runtime:1.1.1] /Library/Java/JavaVirtualMachines/openlogic-openjdk-11.jdk/caches/transforms-4/b6c0d33273bbce37f603375a3ea8b590/transformed/startup-runtime-1.1.1/AndroidManifest.xml:25:5-31:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Library/Java/JavaVirtualMachines/openlogic-openjdk-11.jdk/caches/transforms-4/da0a6ceab1b2a2b624106eaa87f9ee93/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Library/Java/JavaVirtualMachines/openlogic-openjdk-11.jdk/caches/transforms-4/da0a6ceab1b2a2b624106eaa87f9ee93/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:24:5-25:19
 	android:extractNativeLibs
 		INJECTED from /Users/sabin/StudioProjects/WeatherApp/app/src/main/AndroidManifest.xml
 	android:appComponentFactory
-		ADDED from [androidx.core:core:1.13.0] /Users/sabin/.gradle/caches/transforms-4/e385fa785d4dc1a25095b3c48733890e/transformed/core-1.13.0/AndroidManifest.xml:28:18-86
+		ADDED from [androidx.core:core:1.13.0] /Library/Java/JavaVirtualMachines/openlogic-openjdk-11.jdk/caches/transforms-4/fd1c33530333218697e6e70a42bad99d/transformed/core-1.13.0/AndroidManifest.xml:28:18-86
 	android:supportsRtl
 		ADDED from /Users/sabin/StudioProjects/WeatherApp/app/src/main/AndroidManifest.xml:16:9-35
 	android:label
 		ADDED from /Users/sabin/StudioProjects/WeatherApp/app/src/main/AndroidManifest.xml:14:9-41
+	android:launchMode
+		ADDED from /Users/sabin/StudioProjects/WeatherApp/app/src/main/AndroidManifest.xml:18:9-38
 	android:fullBackupContent
 		ADDED from /Users/sabin/StudioProjects/WeatherApp/app/src/main/AndroidManifest.xml:12:9-54
 	android:roundIcon
 		ADDED from /Users/sabin/StudioProjects/WeatherApp/app/src/main/AndroidManifest.xml:15:9-48
 	tools:targetApi
-		ADDED from /Users/sabin/StudioProjects/WeatherApp/app/src/main/AndroidManifest.xml:18:9-29
+		ADDED from /Users/sabin/StudioProjects/WeatherApp/app/src/main/AndroidManifest.xml:19:9-29
 	android:icon
 		ADDED from /Users/sabin/StudioProjects/WeatherApp/app/src/main/AndroidManifest.xml:13:9-43
 	android:allowBackup
@@ -124,232 +126,232 @@ MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/sabi
 	android:dataExtractionRules
 		ADDED from /Users/sabin/StudioProjects/WeatherApp/app/src/main/AndroidManifest.xml:11:9-65
 activity#com.weather.app.ui.search.SearchCityActivity
-ADDED from /Users/sabin/StudioProjects/WeatherApp/app/src/main/AndroidManifest.xml:19:9-21:40
+ADDED from /Users/sabin/StudioProjects/WeatherApp/app/src/main/AndroidManifest.xml:20:9-22:40
 	android:exported
-		ADDED from /Users/sabin/StudioProjects/WeatherApp/app/src/main/AndroidManifest.xml:21:13-37
+		ADDED from /Users/sabin/StudioProjects/WeatherApp/app/src/main/AndroidManifest.xml:22:13-37
 	android:name
-		ADDED from /Users/sabin/StudioProjects/WeatherApp/app/src/main/AndroidManifest.xml:20:13-57
+		ADDED from /Users/sabin/StudioProjects/WeatherApp/app/src/main/AndroidManifest.xml:21:13-57
 activity#com.weather.app.ui.main.MainActivity
-ADDED from /Users/sabin/StudioProjects/WeatherApp/app/src/main/AndroidManifest.xml:22:9-30:20
+ADDED from /Users/sabin/StudioProjects/WeatherApp/app/src/main/AndroidManifest.xml:23:9-31:20
 	android:exported
-		ADDED from /Users/sabin/StudioProjects/WeatherApp/app/src/main/AndroidManifest.xml:24:13-36
+		ADDED from /Users/sabin/StudioProjects/WeatherApp/app/src/main/AndroidManifest.xml:25:13-36
 	android:name
-		ADDED from /Users/sabin/StudioProjects/WeatherApp/app/src/main/AndroidManifest.xml:23:13-49
+		ADDED from /Users/sabin/StudioProjects/WeatherApp/app/src/main/AndroidManifest.xml:24:13-49
 intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
-ADDED from /Users/sabin/StudioProjects/WeatherApp/app/src/main/AndroidManifest.xml:25:13-29:29
+ADDED from /Users/sabin/StudioProjects/WeatherApp/app/src/main/AndroidManifest.xml:26:13-30:29
 action#android.intent.action.MAIN
-ADDED from /Users/sabin/StudioProjects/WeatherApp/app/src/main/AndroidManifest.xml:26:17-69
+ADDED from /Users/sabin/StudioProjects/WeatherApp/app/src/main/AndroidManifest.xml:27:17-69
 	android:name
-		ADDED from /Users/sabin/StudioProjects/WeatherApp/app/src/main/AndroidManifest.xml:26:25-66
+		ADDED from /Users/sabin/StudioProjects/WeatherApp/app/src/main/AndroidManifest.xml:27:25-66
 category#android.intent.category.LAUNCHER
-ADDED from /Users/sabin/StudioProjects/WeatherApp/app/src/main/AndroidManifest.xml:28:17-77
+ADDED from /Users/sabin/StudioProjects/WeatherApp/app/src/main/AndroidManifest.xml:29:17-77
 	android:name
-		ADDED from /Users/sabin/StudioProjects/WeatherApp/app/src/main/AndroidManifest.xml:28:27-74
+		ADDED from /Users/sabin/StudioProjects/WeatherApp/app/src/main/AndroidManifest.xml:29:27-74
 uses-sdk
 INJECTED from /Users/sabin/StudioProjects/WeatherApp/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
 INJECTED from /Users/sabin/StudioProjects/WeatherApp/app/src/main/AndroidManifest.xml
 INJECTED from /Users/sabin/StudioProjects/WeatherApp/app/src/main/AndroidManifest.xml
-MERGED from [com.google.android.material:material:1.12.0] /Users/sabin/.gradle/caches/transforms-4/3fa80a2303bac531867bcb244fc1925e/transformed/material-1.12.0/AndroidManifest.xml:20:5-44
-MERGED from [com.google.android.material:material:1.12.0] /Users/sabin/.gradle/caches/transforms-4/3fa80a2303bac531867bcb244fc1925e/transformed/material-1.12.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] /Users/sabin/.gradle/caches/transforms-4/03e822fffd376160b8e4d79ced3aceae/transformed/constraintlayout-2.1.4/AndroidManifest.xml:5:5-7:41
-MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] /Users/sabin/.gradle/caches/transforms-4/03e822fffd376160b8e4d79ced3aceae/transformed/constraintlayout-2.1.4/AndroidManifest.xml:5:5-7:41
-MERGED from [androidx.appcompat:appcompat-resources:1.7.0] /Users/sabin/.gradle/caches/transforms-4/537f651fb9f020862421dedbffaf5099/transformed/appcompat-resources-1.7.0/AndroidManifest.xml:5:5-44
-MERGED from [androidx.appcompat:appcompat-resources:1.7.0] /Users/sabin/.gradle/caches/transforms-4/537f651fb9f020862421dedbffaf5099/transformed/appcompat-resources-1.7.0/AndroidManifest.xml:5:5-44
-MERGED from [androidx.appcompat:appcompat:1.7.0] /Users/sabin/.gradle/caches/transforms-4/8576c7747f03e32e0960493e26e5f975/transformed/appcompat-1.7.0/AndroidManifest.xml:5:5-44
-MERGED from [androidx.appcompat:appcompat:1.7.0] /Users/sabin/.gradle/caches/transforms-4/8576c7747f03e32e0960493e26e5f975/transformed/appcompat-1.7.0/AndroidManifest.xml:5:5-44
-MERGED from [com.github.bumptech.glide:glide:4.16.0] /Users/sabin/.gradle/caches/transforms-4/0ba9107ecdd98ae87299a01d2dfe25ce/transformed/glide-4.16.0/AndroidManifest.xml:5:5-7:41
-MERGED from [com.github.bumptech.glide:glide:4.16.0] /Users/sabin/.gradle/caches/transforms-4/0ba9107ecdd98ae87299a01d2dfe25ce/transformed/glide-4.16.0/AndroidManifest.xml:5:5-7:41
-MERGED from [androidx.viewpager2:viewpager2:1.0.0] /Users/sabin/.gradle/caches/transforms-4/883f9eac77377f7fa9a388239db4ad29/transformed/viewpager2-1.0.0/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.viewpager2:viewpager2:1.0.0] /Users/sabin/.gradle/caches/transforms-4/883f9eac77377f7fa9a388239db4ad29/transformed/viewpager2-1.0.0/AndroidManifest.xml:20:5-22:41
-MERGED from [com.google.android.gms:play-services-location:21.3.0] /Users/sabin/.gradle/caches/transforms-4/c6def3f1abfb3f822f77cacdd4c2806e/transformed/play-services-location-21.3.0/AndroidManifest.xml:4:5-44
-MERGED from [com.google.android.gms:play-services-location:21.3.0] /Users/sabin/.gradle/caches/transforms-4/c6def3f1abfb3f822f77cacdd4c2806e/transformed/play-services-location-21.3.0/AndroidManifest.xml:4:5-44
-MERGED from [com.google.android.gms:play-services-base:18.5.0] /Users/sabin/.gradle/caches/transforms-4/7989b02b731d199a408f2e9cb02424d8/transformed/play-services-base-18.5.0/AndroidManifest.xml:3:5-44
-MERGED from [com.google.android.gms:play-services-base:18.5.0] /Users/sabin/.gradle/caches/transforms-4/7989b02b731d199a408f2e9cb02424d8/transformed/play-services-base-18.5.0/AndroidManifest.xml:3:5-44
-MERGED from [com.google.android.gms:play-services-tasks:18.2.0] /Users/sabin/.gradle/caches/transforms-4/42cddae5fcfba209c0b438233463f57d/transformed/play-services-tasks-18.2.0/AndroidManifest.xml:3:5-44
-MERGED from [com.google.android.gms:play-services-tasks:18.2.0] /Users/sabin/.gradle/caches/transforms-4/42cddae5fcfba209c0b438233463f57d/transformed/play-services-tasks-18.2.0/AndroidManifest.xml:3:5-44
-MERGED from [com.google.android.gms:play-services-basement:18.4.0] /Users/sabin/.gradle/caches/transforms-4/b5178080aa2bef2e5b2935056008a49b/transformed/play-services-basement-18.4.0/AndroidManifest.xml:3:5-44
-MERGED from [com.google.android.gms:play-services-basement:18.4.0] /Users/sabin/.gradle/caches/transforms-4/b5178080aa2bef2e5b2935056008a49b/transformed/play-services-basement-18.4.0/AndroidManifest.xml:3:5-44
-MERGED from [androidx.fragment:fragment:1.5.4] /Users/sabin/.gradle/caches/transforms-4/cdd9b9762bf6710eeb202cbb49027cf0/transformed/fragment-1.5.4/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.fragment:fragment:1.5.4] /Users/sabin/.gradle/caches/transforms-4/cdd9b9762bf6710eeb202cbb49027cf0/transformed/fragment-1.5.4/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.activity:activity:1.9.0] /Users/sabin/.gradle/caches/transforms-4/02f04eec98f247197055208f8257cf08/transformed/activity-1.9.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.activity:activity:1.9.0] /Users/sabin/.gradle/caches/transforms-4/02f04eec98f247197055208f8257cf08/transformed/activity-1.9.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.savedstate:savedstate:1.2.1] /Users/sabin/.gradle/caches/transforms-4/7847a70a480fe5e754feaaa0599500ff/transformed/savedstate-1.2.1/AndroidManifest.xml:20:5-44
-MERGED from [androidx.savedstate:savedstate:1.2.1] /Users/sabin/.gradle/caches/transforms-4/7847a70a480fe5e754feaaa0599500ff/transformed/savedstate-1.2.1/AndroidManifest.xml:20:5-44
-MERGED from [androidx.emoji2:emoji2-views-helper:1.3.0] /Users/sabin/.gradle/caches/transforms-4/85a74766ca2d8527c41aa953c6738163/transformed/emoji2-views-helper-1.3.0/AndroidManifest.xml:5:5-44
-MERGED from [androidx.emoji2:emoji2-views-helper:1.3.0] /Users/sabin/.gradle/caches/transforms-4/85a74766ca2d8527c41aa953c6738163/transformed/emoji2-views-helper-1.3.0/AndroidManifest.xml:5:5-44
-MERGED from [androidx.emoji2:emoji2:1.3.0] /Users/sabin/.gradle/caches/transforms-4/66bbe5a34d76d0f7c18417a5662478ad/transformed/emoji2-1.3.0/AndroidManifest.xml:21:5-44
-MERGED from [androidx.emoji2:emoji2:1.3.0] /Users/sabin/.gradle/caches/transforms-4/66bbe5a34d76d0f7c18417a5662478ad/transformed/emoji2-1.3.0/AndroidManifest.xml:21:5-44
-MERGED from [androidx.transition:transition:1.5.0] /Users/sabin/.gradle/caches/transforms-4/1ff87ee5ab29abf11c709bfd942fd76b/transformed/transition-1.5.0/AndroidManifest.xml:5:5-44
-MERGED from [androidx.transition:transition:1.5.0] /Users/sabin/.gradle/caches/transforms-4/1ff87ee5ab29abf11c709bfd942fd76b/transformed/transition-1.5.0/AndroidManifest.xml:5:5-44
-MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] /Users/sabin/.gradle/caches/transforms-4/ba2f5db89cd1f812b17def0559f4efb7/transformed/dynamicanimation-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] /Users/sabin/.gradle/caches/transforms-4/ba2f5db89cd1f812b17def0559f4efb7/transformed/dynamicanimation-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/sabin/.gradle/caches/transforms-4/ec5a62d30fc7d2c4e77f9e8935dc1694/transformed/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/sabin/.gradle/caches/transforms-4/ec5a62d30fc7d2c4e77f9e8935dc1694/transformed/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.loader:loader:1.0.0] /Users/sabin/.gradle/caches/transforms-4/92568d1c302941f771e2b75879e43d12/transformed/loader-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.loader:loader:1.0.0] /Users/sabin/.gradle/caches/transforms-4/92568d1c302941f771e2b75879e43d12/transformed/loader-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.lifecycle:lifecycle-livedata:2.6.2] /Users/sabin/.gradle/caches/transforms-4/8fee0b57f1d084ae31d40f16547ebbdc/transformed/lifecycle-livedata-2.6.2/AndroidManifest.xml:20:5-44
-MERGED from [androidx.lifecycle:lifecycle-livedata:2.6.2] /Users/sabin/.gradle/caches/transforms-4/8fee0b57f1d084ae31d40f16547ebbdc/transformed/lifecycle-livedata-2.6.2/AndroidManifest.xml:20:5-44
-MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.6.2] /Users/sabin/.gradle/caches/transforms-4/36d733cb5de4c7c1ede93eef42fa7363/transformed/lifecycle-viewmodel-2.6.2/AndroidManifest.xml:20:5-44
-MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.6.2] /Users/sabin/.gradle/caches/transforms-4/36d733cb5de4c7c1ede93eef42fa7363/transformed/lifecycle-viewmodel-2.6.2/AndroidManifest.xml:20:5-44
-MERGED from [androidx.lifecycle:lifecycle-process:2.6.2] /Users/sabin/.gradle/caches/transforms-4/6f0f8f56523ddadf639a1bfbe5dc8941/transformed/lifecycle-process-2.6.2/AndroidManifest.xml:21:5-44
-MERGED from [androidx.lifecycle:lifecycle-process:2.6.2] /Users/sabin/.gradle/caches/transforms-4/6f0f8f56523ddadf639a1bfbe5dc8941/transformed/lifecycle-process-2.6.2/AndroidManifest.xml:21:5-44
-MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.6.2] /Users/sabin/.gradle/caches/transforms-4/940cd09e1f37616faa088c6a24d5372f/transformed/lifecycle-livedata-core-2.6.2/AndroidManifest.xml:20:5-44
-MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.6.2] /Users/sabin/.gradle/caches/transforms-4/940cd09e1f37616faa088c6a24d5372f/transformed/lifecycle-livedata-core-2.6.2/AndroidManifest.xml:20:5-44
-MERGED from [androidx.lifecycle:lifecycle-runtime:2.6.2] /Users/sabin/.gradle/caches/transforms-4/53a2951ab84b3bdf265ce78b4a898bac/transformed/lifecycle-runtime-2.6.2/AndroidManifest.xml:5:5-44
-MERGED from [androidx.lifecycle:lifecycle-runtime:2.6.2] /Users/sabin/.gradle/caches/transforms-4/53a2951ab84b3bdf265ce78b4a898bac/transformed/lifecycle-runtime-2.6.2/AndroidManifest.xml:5:5-44
-MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.6.2] /Users/sabin/.gradle/caches/transforms-4/1f643c8c52367162162b56542890a367/transformed/lifecycle-viewmodel-savedstate-2.6.2/AndroidManifest.xml:20:5-44
-MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.6.2] /Users/sabin/.gradle/caches/transforms-4/1f643c8c52367162162b56542890a367/transformed/lifecycle-viewmodel-savedstate-2.6.2/AndroidManifest.xml:20:5-44
-MERGED from [androidx.core:core-ktx:1.13.0] /Users/sabin/.gradle/caches/transforms-4/b3b4c381b1714fd73f041bc188ef7161/transformed/core-ktx-1.13.0/AndroidManifest.xml:5:5-44
-MERGED from [androidx.core:core-ktx:1.13.0] /Users/sabin/.gradle/caches/transforms-4/b3b4c381b1714fd73f041bc188ef7161/transformed/core-ktx-1.13.0/AndroidManifest.xml:5:5-44
-MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] /Users/sabin/.gradle/caches/transforms-4/d3fe1dca6adb504a66e753b6ecdc6716/transformed/drawerlayout-1.1.1/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] /Users/sabin/.gradle/caches/transforms-4/d3fe1dca6adb504a66e753b6ecdc6716/transformed/drawerlayout-1.1.1/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /Users/sabin/.gradle/caches/transforms-4/5b5d55f0097c5e28489f4a1d6c5c2c1e/transformed/coordinatorlayout-1.1.0/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /Users/sabin/.gradle/caches/transforms-4/5b5d55f0097c5e28489f4a1d6c5c2c1e/transformed/coordinatorlayout-1.1.0/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/sabin/.gradle/caches/transforms-4/1eba5ca2e19cee40f50ad9439f99db2a/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/sabin/.gradle/caches/transforms-4/1eba5ca2e19cee40f50ad9439f99db2a/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/sabin/.gradle/caches/transforms-4/1aacd0555515fb5c239d8a8576f0cce0/transformed/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/sabin/.gradle/caches/transforms-4/1aacd0555515fb5c239d8a8576f0cce0/transformed/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/sabin/.gradle/caches/transforms-4/e5ce8d5b0791b7b8dfeb86fa8fe5bc05/transformed/viewpager-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/sabin/.gradle/caches/transforms-4/e5ce8d5b0791b7b8dfeb86fa8fe5bc05/transformed/viewpager-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.recyclerview:recyclerview:1.1.0] /Users/sabin/.gradle/caches/transforms-4/ae733ecd5a2bb00d26b8d6467002bb5d/transformed/recyclerview-1.1.0/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.recyclerview:recyclerview:1.1.0] /Users/sabin/.gradle/caches/transforms-4/ae733ecd5a2bb00d26b8d6467002bb5d/transformed/recyclerview-1.1.0/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.customview:customview:1.1.0] /Users/sabin/.gradle/caches/transforms-4/f9f00fee7581a102062fe082da78189d/transformed/customview-1.1.0/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.customview:customview:1.1.0] /Users/sabin/.gradle/caches/transforms-4/f9f00fee7581a102062fe082da78189d/transformed/customview-1.1.0/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.core:core:1.13.0] /Users/sabin/.gradle/caches/transforms-4/e385fa785d4dc1a25095b3c48733890e/transformed/core-1.13.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.core:core:1.13.0] /Users/sabin/.gradle/caches/transforms-4/e385fa785d4dc1a25095b3c48733890e/transformed/core-1.13.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/sabin/.gradle/caches/transforms-4/7baef6fac9c8b356f4f8d811f977672a/transformed/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/sabin/.gradle/caches/transforms-4/7baef6fac9c8b356f4f8d811f977672a/transformed/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/sabin/.gradle/caches/transforms-4/c74d7d7b44790d0211dd0840b8f59f27/transformed/profileinstaller-1.3.1/AndroidManifest.xml:21:5-44
-MERGED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/sabin/.gradle/caches/transforms-4/c74d7d7b44790d0211dd0840b8f59f27/transformed/profileinstaller-1.3.1/AndroidManifest.xml:21:5-44
-MERGED from [androidx.cardview:cardview:1.0.0] /Users/sabin/.gradle/caches/transforms-4/d22cd374509e054bc34c28f2cc9f2a01/transformed/cardview-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.cardview:cardview:1.0.0] /Users/sabin/.gradle/caches/transforms-4/d22cd374509e054bc34c28f2cc9f2a01/transformed/cardview-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/sabin/.gradle/caches/transforms-4/495d733b467d28c8dd3d1e3fb6692207/transformed/startup-runtime-1.1.1/AndroidManifest.xml:21:5-23:41
-MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/sabin/.gradle/caches/transforms-4/495d733b467d28c8dd3d1e3fb6692207/transformed/startup-runtime-1.1.1/AndroidManifest.xml:21:5-23:41
-MERGED from [androidx.tracing:tracing:1.0.0] /Users/sabin/.gradle/caches/transforms-4/8cb8e8a38006cca04ff9608d9c6e8668/transformed/tracing-1.0.0/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.tracing:tracing:1.0.0] /Users/sabin/.gradle/caches/transforms-4/8cb8e8a38006cca04ff9608d9c6e8668/transformed/tracing-1.0.0/AndroidManifest.xml:20:5-22:41
-MERGED from [com.github.bumptech.glide:gifdecoder:4.16.0] /Users/sabin/.gradle/caches/transforms-4/0568349c95ae9355df7c57db8796a20e/transformed/gifdecoder-4.16.0/AndroidManifest.xml:5:5-7:41
-MERGED from [com.github.bumptech.glide:gifdecoder:4.16.0] /Users/sabin/.gradle/caches/transforms-4/0568349c95ae9355df7c57db8796a20e/transformed/gifdecoder-4.16.0/AndroidManifest.xml:5:5-7:41
-MERGED from [androidx.exifinterface:exifinterface:1.3.6] /Users/sabin/.gradle/caches/transforms-4/4139e4d31f7a61743e941b293a6748db/transformed/exifinterface-1.3.6/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.exifinterface:exifinterface:1.3.6] /Users/sabin/.gradle/caches/transforms-4/4139e4d31f7a61743e941b293a6748db/transformed/exifinterface-1.3.6/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/sabin/.gradle/caches/transforms-4/48677ac90ab22b5176609fd961663536/transformed/interpolator-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/sabin/.gradle/caches/transforms-4/48677ac90ab22b5176609fd961663536/transformed/interpolator-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/sabin/.gradle/caches/transforms-4/2478fc615c664e862f9c634abb728c58/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/sabin/.gradle/caches/transforms-4/2478fc615c664e862f9c634abb728c58/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.arch.core:core-runtime:2.2.0] /Users/sabin/.gradle/caches/transforms-4/0ea016aeb7b1b3789ecbe357b073f30b/transformed/core-runtime-2.2.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.arch.core:core-runtime:2.2.0] /Users/sabin/.gradle/caches/transforms-4/0ea016aeb7b1b3789ecbe357b073f30b/transformed/core-runtime-2.2.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/sabin/.gradle/caches/transforms-4/bb749ff28045b2428c388ce0c7f55d99/transformed/documentfile-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/sabin/.gradle/caches/transforms-4/bb749ff28045b2428c388ce0c7f55d99/transformed/documentfile-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/sabin/.gradle/caches/transforms-4/fcf364551275c8fa6d7cc166757d4e5a/transformed/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/sabin/.gradle/caches/transforms-4/fcf364551275c8fa6d7cc166757d4e5a/transformed/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.print:print:1.0.0] /Users/sabin/.gradle/caches/transforms-4/0d4d9c8e1630096c7a4f348661b5a5d2/transformed/print-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.print:print:1.0.0] /Users/sabin/.gradle/caches/transforms-4/0d4d9c8e1630096c7a4f348661b5a5d2/transformed/print-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.annotation:annotation-experimental:1.4.0] /Users/sabin/.gradle/caches/transforms-4/c858ff9eab722512587bb7f2e52d1a03/transformed/annotation-experimental-1.4.0/AndroidManifest.xml:5:5-44
-MERGED from [androidx.annotation:annotation-experimental:1.4.0] /Users/sabin/.gradle/caches/transforms-4/c858ff9eab722512587bb7f2e52d1a03/transformed/annotation-experimental-1.4.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.material:material:1.12.0] /Library/Java/JavaVirtualMachines/openlogic-openjdk-11.jdk/caches/transforms-4/2b6d223f5767a785e1e52854a455ccb8/transformed/material-1.12.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.12.0] /Library/Java/JavaVirtualMachines/openlogic-openjdk-11.jdk/caches/transforms-4/2b6d223f5767a785e1e52854a455ccb8/transformed/material-1.12.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] /Library/Java/JavaVirtualMachines/openlogic-openjdk-11.jdk/caches/transforms-4/3032de3fbb443816837d52340f0f7619/transformed/constraintlayout-2.1.4/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] /Library/Java/JavaVirtualMachines/openlogic-openjdk-11.jdk/caches/transforms-4/3032de3fbb443816837d52340f0f7619/transformed/constraintlayout-2.1.4/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.appcompat:appcompat-resources:1.7.0] /Library/Java/JavaVirtualMachines/openlogic-openjdk-11.jdk/caches/transforms-4/2b99fbbebf0f6f1efa79ef339241fbe0/transformed/appcompat-resources-1.7.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.appcompat:appcompat-resources:1.7.0] /Library/Java/JavaVirtualMachines/openlogic-openjdk-11.jdk/caches/transforms-4/2b99fbbebf0f6f1efa79ef339241fbe0/transformed/appcompat-resources-1.7.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.appcompat:appcompat:1.7.0] /Library/Java/JavaVirtualMachines/openlogic-openjdk-11.jdk/caches/transforms-4/06a963fba6c81a2b11d0dda5db049aef/transformed/appcompat-1.7.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.appcompat:appcompat:1.7.0] /Library/Java/JavaVirtualMachines/openlogic-openjdk-11.jdk/caches/transforms-4/06a963fba6c81a2b11d0dda5db049aef/transformed/appcompat-1.7.0/AndroidManifest.xml:5:5-44
+MERGED from [com.github.bumptech.glide:glide:4.16.0] /Library/Java/JavaVirtualMachines/openlogic-openjdk-11.jdk/caches/transforms-4/13d3fe8dcb10353b10050aa465e9bec3/transformed/glide-4.16.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.github.bumptech.glide:glide:4.16.0] /Library/Java/JavaVirtualMachines/openlogic-openjdk-11.jdk/caches/transforms-4/13d3fe8dcb10353b10050aa465e9bec3/transformed/glide-4.16.0/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /Library/Java/JavaVirtualMachines/openlogic-openjdk-11.jdk/caches/transforms-4/d0801b310ccc62ad1d8c5302b96c549a/transformed/viewpager2-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /Library/Java/JavaVirtualMachines/openlogic-openjdk-11.jdk/caches/transforms-4/d0801b310ccc62ad1d8c5302b96c549a/transformed/viewpager2-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.gms:play-services-location:21.3.0] /Library/Java/JavaVirtualMachines/openlogic-openjdk-11.jdk/caches/transforms-4/35e662f42ce26c7cd20ee2531e52d8dc/transformed/play-services-location-21.3.0/AndroidManifest.xml:4:5-44
+MERGED from [com.google.android.gms:play-services-location:21.3.0] /Library/Java/JavaVirtualMachines/openlogic-openjdk-11.jdk/caches/transforms-4/35e662f42ce26c7cd20ee2531e52d8dc/transformed/play-services-location-21.3.0/AndroidManifest.xml:4:5-44
+MERGED from [com.google.android.gms:play-services-base:18.5.0] /Library/Java/JavaVirtualMachines/openlogic-openjdk-11.jdk/caches/transforms-4/8cb0992a1e0a629b816f0a00f04be59f/transformed/play-services-base-18.5.0/AndroidManifest.xml:3:5-44
+MERGED from [com.google.android.gms:play-services-base:18.5.0] /Library/Java/JavaVirtualMachines/openlogic-openjdk-11.jdk/caches/transforms-4/8cb0992a1e0a629b816f0a00f04be59f/transformed/play-services-base-18.5.0/AndroidManifest.xml:3:5-44
+MERGED from [com.google.android.gms:play-services-tasks:18.2.0] /Library/Java/JavaVirtualMachines/openlogic-openjdk-11.jdk/caches/transforms-4/045eef977ce13addff9dfed8c14797f6/transformed/play-services-tasks-18.2.0/AndroidManifest.xml:3:5-44
+MERGED from [com.google.android.gms:play-services-tasks:18.2.0] /Library/Java/JavaVirtualMachines/openlogic-openjdk-11.jdk/caches/transforms-4/045eef977ce13addff9dfed8c14797f6/transformed/play-services-tasks-18.2.0/AndroidManifest.xml:3:5-44
+MERGED from [com.google.android.gms:play-services-basement:18.4.0] /Library/Java/JavaVirtualMachines/openlogic-openjdk-11.jdk/caches/transforms-4/fae3eb4ab33d3349d8419cd1ccb0613d/transformed/play-services-basement-18.4.0/AndroidManifest.xml:3:5-44
+MERGED from [com.google.android.gms:play-services-basement:18.4.0] /Library/Java/JavaVirtualMachines/openlogic-openjdk-11.jdk/caches/transforms-4/fae3eb4ab33d3349d8419cd1ccb0613d/transformed/play-services-basement-18.4.0/AndroidManifest.xml:3:5-44
+MERGED from [androidx.fragment:fragment:1.5.4] /Library/Java/JavaVirtualMachines/openlogic-openjdk-11.jdk/caches/transforms-4/363f6a438c940be99fa32bdeada0dd51/transformed/fragment-1.5.4/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.5.4] /Library/Java/JavaVirtualMachines/openlogic-openjdk-11.jdk/caches/transforms-4/363f6a438c940be99fa32bdeada0dd51/transformed/fragment-1.5.4/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.9.0] /Library/Java/JavaVirtualMachines/openlogic-openjdk-11.jdk/caches/transforms-4/43b973f76d8495774ddacc367fed8041/transformed/activity-1.9.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.9.0] /Library/Java/JavaVirtualMachines/openlogic-openjdk-11.jdk/caches/transforms-4/43b973f76d8495774ddacc367fed8041/transformed/activity-1.9.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.2.1] /Library/Java/JavaVirtualMachines/openlogic-openjdk-11.jdk/caches/transforms-4/5740e5e40d6d7dcdbeebebb53d30c3c0/transformed/savedstate-1.2.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.2.1] /Library/Java/JavaVirtualMachines/openlogic-openjdk-11.jdk/caches/transforms-4/5740e5e40d6d7dcdbeebebb53d30c3c0/transformed/savedstate-1.2.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.emoji2:emoji2-views-helper:1.3.0] /Library/Java/JavaVirtualMachines/openlogic-openjdk-11.jdk/caches/transforms-4/8583f2ca132a011009ee78f4e649bf3c/transformed/emoji2-views-helper-1.3.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.emoji2:emoji2-views-helper:1.3.0] /Library/Java/JavaVirtualMachines/openlogic-openjdk-11.jdk/caches/transforms-4/8583f2ca132a011009ee78f4e649bf3c/transformed/emoji2-views-helper-1.3.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.emoji2:emoji2:1.3.0] /Library/Java/JavaVirtualMachines/openlogic-openjdk-11.jdk/caches/transforms-4/44e41e68a176e56310c7f1352cacd1bf/transformed/emoji2-1.3.0/AndroidManifest.xml:21:5-44
+MERGED from [androidx.emoji2:emoji2:1.3.0] /Library/Java/JavaVirtualMachines/openlogic-openjdk-11.jdk/caches/transforms-4/44e41e68a176e56310c7f1352cacd1bf/transformed/emoji2-1.3.0/AndroidManifest.xml:21:5-44
+MERGED from [androidx.transition:transition:1.5.0] /Library/Java/JavaVirtualMachines/openlogic-openjdk-11.jdk/caches/transforms-4/d3929c527d4ca199d39b8044e04588c1/transformed/transition-1.5.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.transition:transition:1.5.0] /Library/Java/JavaVirtualMachines/openlogic-openjdk-11.jdk/caches/transforms-4/d3929c527d4ca199d39b8044e04588c1/transformed/transition-1.5.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] /Library/Java/JavaVirtualMachines/openlogic-openjdk-11.jdk/caches/transforms-4/965c848d7df78e19b8cfbf48462343bf/transformed/dynamicanimation-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] /Library/Java/JavaVirtualMachines/openlogic-openjdk-11.jdk/caches/transforms-4/965c848d7df78e19b8cfbf48462343bf/transformed/dynamicanimation-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Library/Java/JavaVirtualMachines/openlogic-openjdk-11.jdk/caches/transforms-4/c4749191622b4fe3b2281158985f4e7f/transformed/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Library/Java/JavaVirtualMachines/openlogic-openjdk-11.jdk/caches/transforms-4/c4749191622b4fe3b2281158985f4e7f/transformed/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Library/Java/JavaVirtualMachines/openlogic-openjdk-11.jdk/caches/transforms-4/dedb7da845c9c1951cf9bbec1a60eb17/transformed/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Library/Java/JavaVirtualMachines/openlogic-openjdk-11.jdk/caches/transforms-4/dedb7da845c9c1951cf9bbec1a60eb17/transformed/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.6.2] /Library/Java/JavaVirtualMachines/openlogic-openjdk-11.jdk/caches/transforms-4/c33e5d0bf092baecf76eab8d94288356/transformed/lifecycle-livedata-2.6.2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.6.2] /Library/Java/JavaVirtualMachines/openlogic-openjdk-11.jdk/caches/transforms-4/c33e5d0bf092baecf76eab8d94288356/transformed/lifecycle-livedata-2.6.2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.6.2] /Library/Java/JavaVirtualMachines/openlogic-openjdk-11.jdk/caches/transforms-4/7b0c8c27d1dceac536765c3187550b9f/transformed/lifecycle-viewmodel-2.6.2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.6.2] /Library/Java/JavaVirtualMachines/openlogic-openjdk-11.jdk/caches/transforms-4/7b0c8c27d1dceac536765c3187550b9f/transformed/lifecycle-viewmodel-2.6.2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.2] /Library/Java/JavaVirtualMachines/openlogic-openjdk-11.jdk/caches/transforms-4/4c0c4e2035f53c5ab4697bdb8ad96090/transformed/lifecycle-process-2.6.2/AndroidManifest.xml:21:5-44
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.2] /Library/Java/JavaVirtualMachines/openlogic-openjdk-11.jdk/caches/transforms-4/4c0c4e2035f53c5ab4697bdb8ad96090/transformed/lifecycle-process-2.6.2/AndroidManifest.xml:21:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.6.2] /Library/Java/JavaVirtualMachines/openlogic-openjdk-11.jdk/caches/transforms-4/a4f60d31e0b0e0405e188bf71d691fb7/transformed/lifecycle-livedata-core-2.6.2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.6.2] /Library/Java/JavaVirtualMachines/openlogic-openjdk-11.jdk/caches/transforms-4/a4f60d31e0b0e0405e188bf71d691fb7/transformed/lifecycle-livedata-core-2.6.2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.6.2] /Library/Java/JavaVirtualMachines/openlogic-openjdk-11.jdk/caches/transforms-4/b5f7556516629b3b58bfccbd09889d45/transformed/lifecycle-runtime-2.6.2/AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.6.2] /Library/Java/JavaVirtualMachines/openlogic-openjdk-11.jdk/caches/transforms-4/b5f7556516629b3b58bfccbd09889d45/transformed/lifecycle-runtime-2.6.2/AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.6.2] /Library/Java/JavaVirtualMachines/openlogic-openjdk-11.jdk/caches/transforms-4/bce221f21c014db5aa76420b9440977d/transformed/lifecycle-viewmodel-savedstate-2.6.2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.6.2] /Library/Java/JavaVirtualMachines/openlogic-openjdk-11.jdk/caches/transforms-4/bce221f21c014db5aa76420b9440977d/transformed/lifecycle-viewmodel-savedstate-2.6.2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core-ktx:1.13.0] /Library/Java/JavaVirtualMachines/openlogic-openjdk-11.jdk/caches/transforms-4/ce593b51e8a7adfe5c13913761884e3d/transformed/core-ktx-1.13.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.core:core-ktx:1.13.0] /Library/Java/JavaVirtualMachines/openlogic-openjdk-11.jdk/caches/transforms-4/ce593b51e8a7adfe5c13913761884e3d/transformed/core-ktx-1.13.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] /Library/Java/JavaVirtualMachines/openlogic-openjdk-11.jdk/caches/transforms-4/f625d730d3bfe8cef51f6137dd050265/transformed/drawerlayout-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] /Library/Java/JavaVirtualMachines/openlogic-openjdk-11.jdk/caches/transforms-4/f625d730d3bfe8cef51f6137dd050265/transformed/drawerlayout-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /Library/Java/JavaVirtualMachines/openlogic-openjdk-11.jdk/caches/transforms-4/ce4a0c36e54c3ecbd6bd63fd8aed4545/transformed/coordinatorlayout-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /Library/Java/JavaVirtualMachines/openlogic-openjdk-11.jdk/caches/transforms-4/ce4a0c36e54c3ecbd6bd63fd8aed4545/transformed/coordinatorlayout-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Library/Java/JavaVirtualMachines/openlogic-openjdk-11.jdk/caches/transforms-4/54ad151bfb7c43f3832916611d21c24c/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Library/Java/JavaVirtualMachines/openlogic-openjdk-11.jdk/caches/transforms-4/54ad151bfb7c43f3832916611d21c24c/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Library/Java/JavaVirtualMachines/openlogic-openjdk-11.jdk/caches/transforms-4/7509ea91c7fa56e25a93fc6942e86fac/transformed/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Library/Java/JavaVirtualMachines/openlogic-openjdk-11.jdk/caches/transforms-4/7509ea91c7fa56e25a93fc6942e86fac/transformed/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Library/Java/JavaVirtualMachines/openlogic-openjdk-11.jdk/caches/transforms-4/a932d9ebb48f0b1549e118ffe55f3182/transformed/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Library/Java/JavaVirtualMachines/openlogic-openjdk-11.jdk/caches/transforms-4/a932d9ebb48f0b1549e118ffe55f3182/transformed/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /Library/Java/JavaVirtualMachines/openlogic-openjdk-11.jdk/caches/transforms-4/ef6a37f5e1c3a2b42db800526ddc91ac/transformed/recyclerview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /Library/Java/JavaVirtualMachines/openlogic-openjdk-11.jdk/caches/transforms-4/ef6a37f5e1c3a2b42db800526ddc91ac/transformed/recyclerview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.1.0] /Library/Java/JavaVirtualMachines/openlogic-openjdk-11.jdk/caches/transforms-4/09abdd9046221a230a658e595469204b/transformed/customview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.1.0] /Library/Java/JavaVirtualMachines/openlogic-openjdk-11.jdk/caches/transforms-4/09abdd9046221a230a658e595469204b/transformed/customview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.13.0] /Library/Java/JavaVirtualMachines/openlogic-openjdk-11.jdk/caches/transforms-4/fd1c33530333218697e6e70a42bad99d/transformed/core-1.13.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.13.0] /Library/Java/JavaVirtualMachines/openlogic-openjdk-11.jdk/caches/transforms-4/fd1c33530333218697e6e70a42bad99d/transformed/core-1.13.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Library/Java/JavaVirtualMachines/openlogic-openjdk-11.jdk/caches/transforms-4/88ae71bfaa997e1c45fac4adb5eb5e46/transformed/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Library/Java/JavaVirtualMachines/openlogic-openjdk-11.jdk/caches/transforms-4/88ae71bfaa997e1c45fac4adb5eb5e46/transformed/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.1] /Library/Java/JavaVirtualMachines/openlogic-openjdk-11.jdk/caches/transforms-4/74915a34133dd57d16a9df8cb04e07ba/transformed/profileinstaller-1.3.1/AndroidManifest.xml:21:5-44
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.1] /Library/Java/JavaVirtualMachines/openlogic-openjdk-11.jdk/caches/transforms-4/74915a34133dd57d16a9df8cb04e07ba/transformed/profileinstaller-1.3.1/AndroidManifest.xml:21:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] /Library/Java/JavaVirtualMachines/openlogic-openjdk-11.jdk/caches/transforms-4/7ad94c18eb7932123e069f6958612650/transformed/cardview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] /Library/Java/JavaVirtualMachines/openlogic-openjdk-11.jdk/caches/transforms-4/7ad94c18eb7932123e069f6958612650/transformed/cardview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.startup:startup-runtime:1.1.1] /Library/Java/JavaVirtualMachines/openlogic-openjdk-11.jdk/caches/transforms-4/b6c0d33273bbce37f603375a3ea8b590/transformed/startup-runtime-1.1.1/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.startup:startup-runtime:1.1.1] /Library/Java/JavaVirtualMachines/openlogic-openjdk-11.jdk/caches/transforms-4/b6c0d33273bbce37f603375a3ea8b590/transformed/startup-runtime-1.1.1/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.tracing:tracing:1.0.0] /Library/Java/JavaVirtualMachines/openlogic-openjdk-11.jdk/caches/transforms-4/68e79f0c68e416c08a31253e75503f6f/transformed/tracing-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.tracing:tracing:1.0.0] /Library/Java/JavaVirtualMachines/openlogic-openjdk-11.jdk/caches/transforms-4/68e79f0c68e416c08a31253e75503f6f/transformed/tracing-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [com.github.bumptech.glide:gifdecoder:4.16.0] /Library/Java/JavaVirtualMachines/openlogic-openjdk-11.jdk/caches/transforms-4/8eab272b4880e46818128442ccd95773/transformed/gifdecoder-4.16.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.github.bumptech.glide:gifdecoder:4.16.0] /Library/Java/JavaVirtualMachines/openlogic-openjdk-11.jdk/caches/transforms-4/8eab272b4880e46818128442ccd95773/transformed/gifdecoder-4.16.0/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.exifinterface:exifinterface:1.3.6] /Library/Java/JavaVirtualMachines/openlogic-openjdk-11.jdk/caches/transforms-4/be2fc2163933309a708ca9ddddec0df3/transformed/exifinterface-1.3.6/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.exifinterface:exifinterface:1.3.6] /Library/Java/JavaVirtualMachines/openlogic-openjdk-11.jdk/caches/transforms-4/be2fc2163933309a708ca9ddddec0df3/transformed/exifinterface-1.3.6/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Library/Java/JavaVirtualMachines/openlogic-openjdk-11.jdk/caches/transforms-4/075b4608d4393bb4a4236a8e6d175815/transformed/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Library/Java/JavaVirtualMachines/openlogic-openjdk-11.jdk/caches/transforms-4/075b4608d4393bb4a4236a8e6d175815/transformed/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Library/Java/JavaVirtualMachines/openlogic-openjdk-11.jdk/caches/transforms-4/da0a6ceab1b2a2b624106eaa87f9ee93/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Library/Java/JavaVirtualMachines/openlogic-openjdk-11.jdk/caches/transforms-4/da0a6ceab1b2a2b624106eaa87f9ee93/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.2.0] /Library/Java/JavaVirtualMachines/openlogic-openjdk-11.jdk/caches/transforms-4/40260ad7f1f665f5b72d9a70956d1a3f/transformed/core-runtime-2.2.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.2.0] /Library/Java/JavaVirtualMachines/openlogic-openjdk-11.jdk/caches/transforms-4/40260ad7f1f665f5b72d9a70956d1a3f/transformed/core-runtime-2.2.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Library/Java/JavaVirtualMachines/openlogic-openjdk-11.jdk/caches/transforms-4/d783c026db6732f2a70439f9f260783c/transformed/documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Library/Java/JavaVirtualMachines/openlogic-openjdk-11.jdk/caches/transforms-4/d783c026db6732f2a70439f9f260783c/transformed/documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Library/Java/JavaVirtualMachines/openlogic-openjdk-11.jdk/caches/transforms-4/4df62e767c8f3793ec0320a2824caa46/transformed/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Library/Java/JavaVirtualMachines/openlogic-openjdk-11.jdk/caches/transforms-4/4df62e767c8f3793ec0320a2824caa46/transformed/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Library/Java/JavaVirtualMachines/openlogic-openjdk-11.jdk/caches/transforms-4/288170e97154a3516e59037dcad18516/transformed/print-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Library/Java/JavaVirtualMachines/openlogic-openjdk-11.jdk/caches/transforms-4/288170e97154a3516e59037dcad18516/transformed/print-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.4.0] /Library/Java/JavaVirtualMachines/openlogic-openjdk-11.jdk/caches/transforms-4/31004d40200e320bd05dcf294f385e2e/transformed/annotation-experimental-1.4.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.4.0] /Library/Java/JavaVirtualMachines/openlogic-openjdk-11.jdk/caches/transforms-4/31004d40200e320bd05dcf294f385e2e/transformed/annotation-experimental-1.4.0/AndroidManifest.xml:5:5-44
 	android:targetSdkVersion
 		INJECTED from /Users/sabin/StudioProjects/WeatherApp/app/src/main/AndroidManifest.xml
 	android:minSdkVersion
 		INJECTED from /Users/sabin/StudioProjects/WeatherApp/app/src/main/AndroidManifest.xml
 activity#com.google.android.gms.common.api.GoogleApiActivity
-ADDED from [com.google.android.gms:play-services-base:18.5.0] /Users/sabin/.gradle/caches/transforms-4/7989b02b731d199a408f2e9cb02424d8/transformed/play-services-base-18.5.0/AndroidManifest.xml:5:9-173
+ADDED from [com.google.android.gms:play-services-base:18.5.0] /Library/Java/JavaVirtualMachines/openlogic-openjdk-11.jdk/caches/transforms-4/8cb0992a1e0a629b816f0a00f04be59f/transformed/play-services-base-18.5.0/AndroidManifest.xml:5:9-173
 	android:exported
-		ADDED from [com.google.android.gms:play-services-base:18.5.0] /Users/sabin/.gradle/caches/transforms-4/7989b02b731d199a408f2e9cb02424d8/transformed/play-services-base-18.5.0/AndroidManifest.xml:5:146-170
+		ADDED from [com.google.android.gms:play-services-base:18.5.0] /Library/Java/JavaVirtualMachines/openlogic-openjdk-11.jdk/caches/transforms-4/8cb0992a1e0a629b816f0a00f04be59f/transformed/play-services-base-18.5.0/AndroidManifest.xml:5:146-170
 	android:theme
-		ADDED from [com.google.android.gms:play-services-base:18.5.0] /Users/sabin/.gradle/caches/transforms-4/7989b02b731d199a408f2e9cb02424d8/transformed/play-services-base-18.5.0/AndroidManifest.xml:5:86-145
+		ADDED from [com.google.android.gms:play-services-base:18.5.0] /Library/Java/JavaVirtualMachines/openlogic-openjdk-11.jdk/caches/transforms-4/8cb0992a1e0a629b816f0a00f04be59f/transformed/play-services-base-18.5.0/AndroidManifest.xml:5:86-145
 	android:name
-		ADDED from [com.google.android.gms:play-services-base:18.5.0] /Users/sabin/.gradle/caches/transforms-4/7989b02b731d199a408f2e9cb02424d8/transformed/play-services-base-18.5.0/AndroidManifest.xml:5:19-85
+		ADDED from [com.google.android.gms:play-services-base:18.5.0] /Library/Java/JavaVirtualMachines/openlogic-openjdk-11.jdk/caches/transforms-4/8cb0992a1e0a629b816f0a00f04be59f/transformed/play-services-base-18.5.0/AndroidManifest.xml:5:19-85
 meta-data#com.google.android.gms.version
-ADDED from [com.google.android.gms:play-services-basement:18.4.0] /Users/sabin/.gradle/caches/transforms-4/b5178080aa2bef2e5b2935056008a49b/transformed/play-services-basement-18.4.0/AndroidManifest.xml:6:9-122
+ADDED from [com.google.android.gms:play-services-basement:18.4.0] /Library/Java/JavaVirtualMachines/openlogic-openjdk-11.jdk/caches/transforms-4/fae3eb4ab33d3349d8419cd1ccb0613d/transformed/play-services-basement-18.4.0/AndroidManifest.xml:6:9-122
 	android:value
-		ADDED from [com.google.android.gms:play-services-basement:18.4.0] /Users/sabin/.gradle/caches/transforms-4/b5178080aa2bef2e5b2935056008a49b/transformed/play-services-basement-18.4.0/AndroidManifest.xml:6:66-119
+		ADDED from [com.google.android.gms:play-services-basement:18.4.0] /Library/Java/JavaVirtualMachines/openlogic-openjdk-11.jdk/caches/transforms-4/fae3eb4ab33d3349d8419cd1ccb0613d/transformed/play-services-basement-18.4.0/AndroidManifest.xml:6:66-119
 	android:name
-		ADDED from [com.google.android.gms:play-services-basement:18.4.0] /Users/sabin/.gradle/caches/transforms-4/b5178080aa2bef2e5b2935056008a49b/transformed/play-services-basement-18.4.0/AndroidManifest.xml:6:20-65
+		ADDED from [com.google.android.gms:play-services-basement:18.4.0] /Library/Java/JavaVirtualMachines/openlogic-openjdk-11.jdk/caches/transforms-4/fae3eb4ab33d3349d8419cd1ccb0613d/transformed/play-services-basement-18.4.0/AndroidManifest.xml:6:20-65
 provider#androidx.startup.InitializationProvider
-ADDED from [androidx.emoji2:emoji2:1.3.0] /Users/sabin/.gradle/caches/transforms-4/66bbe5a34d76d0f7c18417a5662478ad/transformed/emoji2-1.3.0/AndroidManifest.xml:24:9-32:20
-MERGED from [androidx.lifecycle:lifecycle-process:2.6.2] /Users/sabin/.gradle/caches/transforms-4/6f0f8f56523ddadf639a1bfbe5dc8941/transformed/lifecycle-process-2.6.2/AndroidManifest.xml:24:9-32:20
-MERGED from [androidx.lifecycle:lifecycle-process:2.6.2] /Users/sabin/.gradle/caches/transforms-4/6f0f8f56523ddadf639a1bfbe5dc8941/transformed/lifecycle-process-2.6.2/AndroidManifest.xml:24:9-32:20
-MERGED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/sabin/.gradle/caches/transforms-4/c74d7d7b44790d0211dd0840b8f59f27/transformed/profileinstaller-1.3.1/AndroidManifest.xml:24:9-32:20
-MERGED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/sabin/.gradle/caches/transforms-4/c74d7d7b44790d0211dd0840b8f59f27/transformed/profileinstaller-1.3.1/AndroidManifest.xml:24:9-32:20
-MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/sabin/.gradle/caches/transforms-4/495d733b467d28c8dd3d1e3fb6692207/transformed/startup-runtime-1.1.1/AndroidManifest.xml:26:9-30:34
-MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/sabin/.gradle/caches/transforms-4/495d733b467d28c8dd3d1e3fb6692207/transformed/startup-runtime-1.1.1/AndroidManifest.xml:26:9-30:34
+ADDED from [androidx.emoji2:emoji2:1.3.0] /Library/Java/JavaVirtualMachines/openlogic-openjdk-11.jdk/caches/transforms-4/44e41e68a176e56310c7f1352cacd1bf/transformed/emoji2-1.3.0/AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.2] /Library/Java/JavaVirtualMachines/openlogic-openjdk-11.jdk/caches/transforms-4/4c0c4e2035f53c5ab4697bdb8ad96090/transformed/lifecycle-process-2.6.2/AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.2] /Library/Java/JavaVirtualMachines/openlogic-openjdk-11.jdk/caches/transforms-4/4c0c4e2035f53c5ab4697bdb8ad96090/transformed/lifecycle-process-2.6.2/AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.1] /Library/Java/JavaVirtualMachines/openlogic-openjdk-11.jdk/caches/transforms-4/74915a34133dd57d16a9df8cb04e07ba/transformed/profileinstaller-1.3.1/AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.1] /Library/Java/JavaVirtualMachines/openlogic-openjdk-11.jdk/caches/transforms-4/74915a34133dd57d16a9df8cb04e07ba/transformed/profileinstaller-1.3.1/AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.startup:startup-runtime:1.1.1] /Library/Java/JavaVirtualMachines/openlogic-openjdk-11.jdk/caches/transforms-4/b6c0d33273bbce37f603375a3ea8b590/transformed/startup-runtime-1.1.1/AndroidManifest.xml:26:9-30:34
+MERGED from [androidx.startup:startup-runtime:1.1.1] /Library/Java/JavaVirtualMachines/openlogic-openjdk-11.jdk/caches/transforms-4/b6c0d33273bbce37f603375a3ea8b590/transformed/startup-runtime-1.1.1/AndroidManifest.xml:26:9-30:34
 	tools:node
-		ADDED from [androidx.emoji2:emoji2:1.3.0] /Users/sabin/.gradle/caches/transforms-4/66bbe5a34d76d0f7c18417a5662478ad/transformed/emoji2-1.3.0/AndroidManifest.xml:28:13-31
+		ADDED from [androidx.emoji2:emoji2:1.3.0] /Library/Java/JavaVirtualMachines/openlogic-openjdk-11.jdk/caches/transforms-4/44e41e68a176e56310c7f1352cacd1bf/transformed/emoji2-1.3.0/AndroidManifest.xml:28:13-31
 	android:authorities
-		ADDED from [androidx.emoji2:emoji2:1.3.0] /Users/sabin/.gradle/caches/transforms-4/66bbe5a34d76d0f7c18417a5662478ad/transformed/emoji2-1.3.0/AndroidManifest.xml:26:13-68
+		ADDED from [androidx.emoji2:emoji2:1.3.0] /Library/Java/JavaVirtualMachines/openlogic-openjdk-11.jdk/caches/transforms-4/44e41e68a176e56310c7f1352cacd1bf/transformed/emoji2-1.3.0/AndroidManifest.xml:26:13-68
 	android:exported
-		ADDED from [androidx.emoji2:emoji2:1.3.0] /Users/sabin/.gradle/caches/transforms-4/66bbe5a34d76d0f7c18417a5662478ad/transformed/emoji2-1.3.0/AndroidManifest.xml:27:13-37
+		ADDED from [androidx.emoji2:emoji2:1.3.0] /Library/Java/JavaVirtualMachines/openlogic-openjdk-11.jdk/caches/transforms-4/44e41e68a176e56310c7f1352cacd1bf/transformed/emoji2-1.3.0/AndroidManifest.xml:27:13-37
 	android:name
-		ADDED from [androidx.emoji2:emoji2:1.3.0] /Users/sabin/.gradle/caches/transforms-4/66bbe5a34d76d0f7c18417a5662478ad/transformed/emoji2-1.3.0/AndroidManifest.xml:25:13-67
+		ADDED from [androidx.emoji2:emoji2:1.3.0] /Library/Java/JavaVirtualMachines/openlogic-openjdk-11.jdk/caches/transforms-4/44e41e68a176e56310c7f1352cacd1bf/transformed/emoji2-1.3.0/AndroidManifest.xml:25:13-67
 meta-data#androidx.emoji2.text.EmojiCompatInitializer
-ADDED from [androidx.emoji2:emoji2:1.3.0] /Users/sabin/.gradle/caches/transforms-4/66bbe5a34d76d0f7c18417a5662478ad/transformed/emoji2-1.3.0/AndroidManifest.xml:29:13-31:52
+ADDED from [androidx.emoji2:emoji2:1.3.0] /Library/Java/JavaVirtualMachines/openlogic-openjdk-11.jdk/caches/transforms-4/44e41e68a176e56310c7f1352cacd1bf/transformed/emoji2-1.3.0/AndroidManifest.xml:29:13-31:52
 	android:value
-		ADDED from [androidx.emoji2:emoji2:1.3.0] /Users/sabin/.gradle/caches/transforms-4/66bbe5a34d76d0f7c18417a5662478ad/transformed/emoji2-1.3.0/AndroidManifest.xml:31:17-49
+		ADDED from [androidx.emoji2:emoji2:1.3.0] /Library/Java/JavaVirtualMachines/openlogic-openjdk-11.jdk/caches/transforms-4/44e41e68a176e56310c7f1352cacd1bf/transformed/emoji2-1.3.0/AndroidManifest.xml:31:17-49
 	android:name
-		ADDED from [androidx.emoji2:emoji2:1.3.0] /Users/sabin/.gradle/caches/transforms-4/66bbe5a34d76d0f7c18417a5662478ad/transformed/emoji2-1.3.0/AndroidManifest.xml:30:17-75
+		ADDED from [androidx.emoji2:emoji2:1.3.0] /Library/Java/JavaVirtualMachines/openlogic-openjdk-11.jdk/caches/transforms-4/44e41e68a176e56310c7f1352cacd1bf/transformed/emoji2-1.3.0/AndroidManifest.xml:30:17-75
 meta-data#androidx.lifecycle.ProcessLifecycleInitializer
-ADDED from [androidx.lifecycle:lifecycle-process:2.6.2] /Users/sabin/.gradle/caches/transforms-4/6f0f8f56523ddadf639a1bfbe5dc8941/transformed/lifecycle-process-2.6.2/AndroidManifest.xml:29:13-31:52
+ADDED from [androidx.lifecycle:lifecycle-process:2.6.2] /Library/Java/JavaVirtualMachines/openlogic-openjdk-11.jdk/caches/transforms-4/4c0c4e2035f53c5ab4697bdb8ad96090/transformed/lifecycle-process-2.6.2/AndroidManifest.xml:29:13-31:52
 	android:value
-		ADDED from [androidx.lifecycle:lifecycle-process:2.6.2] /Users/sabin/.gradle/caches/transforms-4/6f0f8f56523ddadf639a1bfbe5dc8941/transformed/lifecycle-process-2.6.2/AndroidManifest.xml:31:17-49
+		ADDED from [androidx.lifecycle:lifecycle-process:2.6.2] /Library/Java/JavaVirtualMachines/openlogic-openjdk-11.jdk/caches/transforms-4/4c0c4e2035f53c5ab4697bdb8ad96090/transformed/lifecycle-process-2.6.2/AndroidManifest.xml:31:17-49
 	android:name
-		ADDED from [androidx.lifecycle:lifecycle-process:2.6.2] /Users/sabin/.gradle/caches/transforms-4/6f0f8f56523ddadf639a1bfbe5dc8941/transformed/lifecycle-process-2.6.2/AndroidManifest.xml:30:17-78
+		ADDED from [androidx.lifecycle:lifecycle-process:2.6.2] /Library/Java/JavaVirtualMachines/openlogic-openjdk-11.jdk/caches/transforms-4/4c0c4e2035f53c5ab4697bdb8ad96090/transformed/lifecycle-process-2.6.2/AndroidManifest.xml:30:17-78
 permission#${applicationId}.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
-ADDED from [androidx.core:core:1.13.0] /Users/sabin/.gradle/caches/transforms-4/e385fa785d4dc1a25095b3c48733890e/transformed/core-1.13.0/AndroidManifest.xml:22:5-24:47
+ADDED from [androidx.core:core:1.13.0] /Library/Java/JavaVirtualMachines/openlogic-openjdk-11.jdk/caches/transforms-4/fd1c33530333218697e6e70a42bad99d/transformed/core-1.13.0/AndroidManifest.xml:22:5-24:47
 	android:protectionLevel
-		ADDED from [androidx.core:core:1.13.0] /Users/sabin/.gradle/caches/transforms-4/e385fa785d4dc1a25095b3c48733890e/transformed/core-1.13.0/AndroidManifest.xml:24:9-44
+		ADDED from [androidx.core:core:1.13.0] /Library/Java/JavaVirtualMachines/openlogic-openjdk-11.jdk/caches/transforms-4/fd1c33530333218697e6e70a42bad99d/transformed/core-1.13.0/AndroidManifest.xml:24:9-44
 	android:name
-		ADDED from [androidx.core:core:1.13.0] /Users/sabin/.gradle/caches/transforms-4/e385fa785d4dc1a25095b3c48733890e/transformed/core-1.13.0/AndroidManifest.xml:23:9-81
+		ADDED from [androidx.core:core:1.13.0] /Library/Java/JavaVirtualMachines/openlogic-openjdk-11.jdk/caches/transforms-4/fd1c33530333218697e6e70a42bad99d/transformed/core-1.13.0/AndroidManifest.xml:23:9-81
 permission#com.weather.app.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
-ADDED from [androidx.core:core:1.13.0] /Users/sabin/.gradle/caches/transforms-4/e385fa785d4dc1a25095b3c48733890e/transformed/core-1.13.0/AndroidManifest.xml:22:5-24:47
+ADDED from [androidx.core:core:1.13.0] /Library/Java/JavaVirtualMachines/openlogic-openjdk-11.jdk/caches/transforms-4/fd1c33530333218697e6e70a42bad99d/transformed/core-1.13.0/AndroidManifest.xml:22:5-24:47
 	android:protectionLevel
-		ADDED from [androidx.core:core:1.13.0] /Users/sabin/.gradle/caches/transforms-4/e385fa785d4dc1a25095b3c48733890e/transformed/core-1.13.0/AndroidManifest.xml:24:9-44
+		ADDED from [androidx.core:core:1.13.0] /Library/Java/JavaVirtualMachines/openlogic-openjdk-11.jdk/caches/transforms-4/fd1c33530333218697e6e70a42bad99d/transformed/core-1.13.0/AndroidManifest.xml:24:9-44
 	android:name
-		ADDED from [androidx.core:core:1.13.0] /Users/sabin/.gradle/caches/transforms-4/e385fa785d4dc1a25095b3c48733890e/transformed/core-1.13.0/AndroidManifest.xml:23:9-81
+		ADDED from [androidx.core:core:1.13.0] /Library/Java/JavaVirtualMachines/openlogic-openjdk-11.jdk/caches/transforms-4/fd1c33530333218697e6e70a42bad99d/transformed/core-1.13.0/AndroidManifest.xml:23:9-81
 uses-permission#${applicationId}.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
-ADDED from [androidx.core:core:1.13.0] /Users/sabin/.gradle/caches/transforms-4/e385fa785d4dc1a25095b3c48733890e/transformed/core-1.13.0/AndroidManifest.xml:26:5-97
+ADDED from [androidx.core:core:1.13.0] /Library/Java/JavaVirtualMachines/openlogic-openjdk-11.jdk/caches/transforms-4/fd1c33530333218697e6e70a42bad99d/transformed/core-1.13.0/AndroidManifest.xml:26:5-97
 	android:name
-		ADDED from [androidx.core:core:1.13.0] /Users/sabin/.gradle/caches/transforms-4/e385fa785d4dc1a25095b3c48733890e/transformed/core-1.13.0/AndroidManifest.xml:26:22-94
+		ADDED from [androidx.core:core:1.13.0] /Library/Java/JavaVirtualMachines/openlogic-openjdk-11.jdk/caches/transforms-4/fd1c33530333218697e6e70a42bad99d/transformed/core-1.13.0/AndroidManifest.xml:26:22-94
 uses-permission#com.weather.app.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
-ADDED from [androidx.core:core:1.13.0] /Users/sabin/.gradle/caches/transforms-4/e385fa785d4dc1a25095b3c48733890e/transformed/core-1.13.0/AndroidManifest.xml:26:5-97
+ADDED from [androidx.core:core:1.13.0] /Library/Java/JavaVirtualMachines/openlogic-openjdk-11.jdk/caches/transforms-4/fd1c33530333218697e6e70a42bad99d/transformed/core-1.13.0/AndroidManifest.xml:26:5-97
 	android:name
-		ADDED from [androidx.core:core:1.13.0] /Users/sabin/.gradle/caches/transforms-4/e385fa785d4dc1a25095b3c48733890e/transformed/core-1.13.0/AndroidManifest.xml:26:22-94
+		ADDED from [androidx.core:core:1.13.0] /Library/Java/JavaVirtualMachines/openlogic-openjdk-11.jdk/caches/transforms-4/fd1c33530333218697e6e70a42bad99d/transformed/core-1.13.0/AndroidManifest.xml:26:22-94
 meta-data#androidx.profileinstaller.ProfileInstallerInitializer
-ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/sabin/.gradle/caches/transforms-4/c74d7d7b44790d0211dd0840b8f59f27/transformed/profileinstaller-1.3.1/AndroidManifest.xml:29:13-31:52
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /Library/Java/JavaVirtualMachines/openlogic-openjdk-11.jdk/caches/transforms-4/74915a34133dd57d16a9df8cb04e07ba/transformed/profileinstaller-1.3.1/AndroidManifest.xml:29:13-31:52
 	android:value
-		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/sabin/.gradle/caches/transforms-4/c74d7d7b44790d0211dd0840b8f59f27/transformed/profileinstaller-1.3.1/AndroidManifest.xml:31:17-49
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /Library/Java/JavaVirtualMachines/openlogic-openjdk-11.jdk/caches/transforms-4/74915a34133dd57d16a9df8cb04e07ba/transformed/profileinstaller-1.3.1/AndroidManifest.xml:31:17-49
 	android:name
-		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/sabin/.gradle/caches/transforms-4/c74d7d7b44790d0211dd0840b8f59f27/transformed/profileinstaller-1.3.1/AndroidManifest.xml:30:17-85
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /Library/Java/JavaVirtualMachines/openlogic-openjdk-11.jdk/caches/transforms-4/74915a34133dd57d16a9df8cb04e07ba/transformed/profileinstaller-1.3.1/AndroidManifest.xml:30:17-85
 receiver#androidx.profileinstaller.ProfileInstallReceiver
-ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/sabin/.gradle/caches/transforms-4/c74d7d7b44790d0211dd0840b8f59f27/transformed/profileinstaller-1.3.1/AndroidManifest.xml:34:9-52:20
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /Library/Java/JavaVirtualMachines/openlogic-openjdk-11.jdk/caches/transforms-4/74915a34133dd57d16a9df8cb04e07ba/transformed/profileinstaller-1.3.1/AndroidManifest.xml:34:9-52:20
 	android:enabled
-		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/sabin/.gradle/caches/transforms-4/c74d7d7b44790d0211dd0840b8f59f27/transformed/profileinstaller-1.3.1/AndroidManifest.xml:37:13-35
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /Library/Java/JavaVirtualMachines/openlogic-openjdk-11.jdk/caches/transforms-4/74915a34133dd57d16a9df8cb04e07ba/transformed/profileinstaller-1.3.1/AndroidManifest.xml:37:13-35
 	android:exported
-		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/sabin/.gradle/caches/transforms-4/c74d7d7b44790d0211dd0840b8f59f27/transformed/profileinstaller-1.3.1/AndroidManifest.xml:38:13-36
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /Library/Java/JavaVirtualMachines/openlogic-openjdk-11.jdk/caches/transforms-4/74915a34133dd57d16a9df8cb04e07ba/transformed/profileinstaller-1.3.1/AndroidManifest.xml:38:13-36
 	android:permission
-		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/sabin/.gradle/caches/transforms-4/c74d7d7b44790d0211dd0840b8f59f27/transformed/profileinstaller-1.3.1/AndroidManifest.xml:39:13-57
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /Library/Java/JavaVirtualMachines/openlogic-openjdk-11.jdk/caches/transforms-4/74915a34133dd57d16a9df8cb04e07ba/transformed/profileinstaller-1.3.1/AndroidManifest.xml:39:13-57
 	android:directBootAware
-		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/sabin/.gradle/caches/transforms-4/c74d7d7b44790d0211dd0840b8f59f27/transformed/profileinstaller-1.3.1/AndroidManifest.xml:36:13-44
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /Library/Java/JavaVirtualMachines/openlogic-openjdk-11.jdk/caches/transforms-4/74915a34133dd57d16a9df8cb04e07ba/transformed/profileinstaller-1.3.1/AndroidManifest.xml:36:13-44
 	android:name
-		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/sabin/.gradle/caches/transforms-4/c74d7d7b44790d0211dd0840b8f59f27/transformed/profileinstaller-1.3.1/AndroidManifest.xml:35:13-76
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /Library/Java/JavaVirtualMachines/openlogic-openjdk-11.jdk/caches/transforms-4/74915a34133dd57d16a9df8cb04e07ba/transformed/profileinstaller-1.3.1/AndroidManifest.xml:35:13-76
 intent-filter#action:name:androidx.profileinstaller.action.INSTALL_PROFILE
-ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/sabin/.gradle/caches/transforms-4/c74d7d7b44790d0211dd0840b8f59f27/transformed/profileinstaller-1.3.1/AndroidManifest.xml:40:13-42:29
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /Library/Java/JavaVirtualMachines/openlogic-openjdk-11.jdk/caches/transforms-4/74915a34133dd57d16a9df8cb04e07ba/transformed/profileinstaller-1.3.1/AndroidManifest.xml:40:13-42:29
 action#androidx.profileinstaller.action.INSTALL_PROFILE
-ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/sabin/.gradle/caches/transforms-4/c74d7d7b44790d0211dd0840b8f59f27/transformed/profileinstaller-1.3.1/AndroidManifest.xml:41:17-91
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /Library/Java/JavaVirtualMachines/openlogic-openjdk-11.jdk/caches/transforms-4/74915a34133dd57d16a9df8cb04e07ba/transformed/profileinstaller-1.3.1/AndroidManifest.xml:41:17-91
 	android:name
-		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/sabin/.gradle/caches/transforms-4/c74d7d7b44790d0211dd0840b8f59f27/transformed/profileinstaller-1.3.1/AndroidManifest.xml:41:25-88
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /Library/Java/JavaVirtualMachines/openlogic-openjdk-11.jdk/caches/transforms-4/74915a34133dd57d16a9df8cb04e07ba/transformed/profileinstaller-1.3.1/AndroidManifest.xml:41:25-88
 intent-filter#action:name:androidx.profileinstaller.action.SKIP_FILE
-ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/sabin/.gradle/caches/transforms-4/c74d7d7b44790d0211dd0840b8f59f27/transformed/profileinstaller-1.3.1/AndroidManifest.xml:43:13-45:29
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /Library/Java/JavaVirtualMachines/openlogic-openjdk-11.jdk/caches/transforms-4/74915a34133dd57d16a9df8cb04e07ba/transformed/profileinstaller-1.3.1/AndroidManifest.xml:43:13-45:29
 action#androidx.profileinstaller.action.SKIP_FILE
-ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/sabin/.gradle/caches/transforms-4/c74d7d7b44790d0211dd0840b8f59f27/transformed/profileinstaller-1.3.1/AndroidManifest.xml:44:17-85
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /Library/Java/JavaVirtualMachines/openlogic-openjdk-11.jdk/caches/transforms-4/74915a34133dd57d16a9df8cb04e07ba/transformed/profileinstaller-1.3.1/AndroidManifest.xml:44:17-85
 	android:name
-		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/sabin/.gradle/caches/transforms-4/c74d7d7b44790d0211dd0840b8f59f27/transformed/profileinstaller-1.3.1/AndroidManifest.xml:44:25-82
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /Library/Java/JavaVirtualMachines/openlogic-openjdk-11.jdk/caches/transforms-4/74915a34133dd57d16a9df8cb04e07ba/transformed/profileinstaller-1.3.1/AndroidManifest.xml:44:25-82
 intent-filter#action:name:androidx.profileinstaller.action.SAVE_PROFILE
-ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/sabin/.gradle/caches/transforms-4/c74d7d7b44790d0211dd0840b8f59f27/transformed/profileinstaller-1.3.1/AndroidManifest.xml:46:13-48:29
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /Library/Java/JavaVirtualMachines/openlogic-openjdk-11.jdk/caches/transforms-4/74915a34133dd57d16a9df8cb04e07ba/transformed/profileinstaller-1.3.1/AndroidManifest.xml:46:13-48:29
 action#androidx.profileinstaller.action.SAVE_PROFILE
-ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/sabin/.gradle/caches/transforms-4/c74d7d7b44790d0211dd0840b8f59f27/transformed/profileinstaller-1.3.1/AndroidManifest.xml:47:17-88
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /Library/Java/JavaVirtualMachines/openlogic-openjdk-11.jdk/caches/transforms-4/74915a34133dd57d16a9df8cb04e07ba/transformed/profileinstaller-1.3.1/AndroidManifest.xml:47:17-88
 	android:name
-		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/sabin/.gradle/caches/transforms-4/c74d7d7b44790d0211dd0840b8f59f27/transformed/profileinstaller-1.3.1/AndroidManifest.xml:47:25-85
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /Library/Java/JavaVirtualMachines/openlogic-openjdk-11.jdk/caches/transforms-4/74915a34133dd57d16a9df8cb04e07ba/transformed/profileinstaller-1.3.1/AndroidManifest.xml:47:25-85
 intent-filter#action:name:androidx.profileinstaller.action.BENCHMARK_OPERATION
-ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/sabin/.gradle/caches/transforms-4/c74d7d7b44790d0211dd0840b8f59f27/transformed/profileinstaller-1.3.1/AndroidManifest.xml:49:13-51:29
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /Library/Java/JavaVirtualMachines/openlogic-openjdk-11.jdk/caches/transforms-4/74915a34133dd57d16a9df8cb04e07ba/transformed/profileinstaller-1.3.1/AndroidManifest.xml:49:13-51:29
 action#androidx.profileinstaller.action.BENCHMARK_OPERATION
-ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/sabin/.gradle/caches/transforms-4/c74d7d7b44790d0211dd0840b8f59f27/transformed/profileinstaller-1.3.1/AndroidManifest.xml:50:17-95
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /Library/Java/JavaVirtualMachines/openlogic-openjdk-11.jdk/caches/transforms-4/74915a34133dd57d16a9df8cb04e07ba/transformed/profileinstaller-1.3.1/AndroidManifest.xml:50:17-95
 	android:name
-		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/sabin/.gradle/caches/transforms-4/c74d7d7b44790d0211dd0840b8f59f27/transformed/profileinstaller-1.3.1/AndroidManifest.xml:50:25-92
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /Library/Java/JavaVirtualMachines/openlogic-openjdk-11.jdk/caches/transforms-4/74915a34133dd57d16a9df8cb04e07ba/transformed/profileinstaller-1.3.1/AndroidManifest.xml:50:25-92
