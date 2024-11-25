@@ -16,6 +16,7 @@ import androidx.annotation.NonNull;
 import androidx.appcompat.app.AppCompatActivity;
 import androidx.core.content.ContextCompat;
 
+import com.google.android.material.floatingactionbutton.FloatingActionButton;
 import com.weather.app.R;
 import com.weather.app.data.model.City;
 import com.weather.app.utils.NepalCities;
@@ -28,6 +29,7 @@ public class SearchCityActivity extends AppCompatActivity {
     private ArrayAdapter<String> adapter;
     private List<City> cityList;
     private List<City> filteredCityList;
+    private boolean isSortedAlphabetically = false;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -36,6 +38,7 @@ public class SearchCityActivity extends AppCompatActivity {
 
         EditText etSearchCity = findViewById(R.id.etSearchCity);
         ListView lvCities = findViewById(R.id.lvCities);
+        FloatingActionButton sortFAB = findViewById(R.id.fabSort);
 
         // Initialize city list and adapter
         cityList = NepalCities.getCities();
@@ -61,10 +64,6 @@ public class SearchCityActivity extends AppCompatActivity {
                 return filteredCityList.get(position).getName();
             }
 
-            @Override
-            public boolean isEnabled(int position) {
-                return true;
-            }
         };
         lvCities.setAdapter(adapter);
 
@@ -84,9 +83,10 @@ public class SearchCityActivity extends AppCompatActivity {
                     // Perform fuzzy search when there's text
                     filteredCityList = fuzzySearch(cityList, searchText);
                 }
-                adapter.clear();
-                adapter.addAll(filteredCityList.stream().map(City::getName).collect(Collectors.toList()));
-                adapter.notifyDataSetChanged();
+//                adapter.clear();
+//                adapter.addAll(filteredCityList.stream().map(City::getName).collect(Collectors.toList()));
+//                adapter.notifyDataSetChanged();
+                updateAdapter();
             }
 
             @Override
@@ -108,6 +108,21 @@ public class SearchCityActivity extends AppCompatActivity {
                 resultIntent.putExtra("longitude", selectedCity.getLongitude());
                 setResult(RESULT_OK, resultIntent);
                 finish();
+            }
+        });
+
+        sortFAB.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                isSortedAlphabetically = !isSortedAlphabetically;
+
+                if (isSortedAlphabetically) {
+                    filteredCityList.sort((c1, c2) -> c1.getName().compareToIgnoreCase(c2.getName()));
+                } else {
+                    filteredCityList = new ArrayList<>(cityList); // Reset to original order
+                }
+
+                updateAdapter();
             }
         });
     }
@@ -153,5 +168,11 @@ public class SearchCityActivity extends AppCompatActivity {
             }
         }
         return dp[a.length()][b.length()];
+    }
+
+    private void updateAdapter() {
+        adapter.clear();
+        adapter.addAll(filteredCityList.stream().map(City::getName).collect(Collectors.toList()));
+        adapter.notifyDataSetChanged();
     }
 }

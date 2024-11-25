@@ -33,6 +33,11 @@ The Weather App provides users with real-time weather information for cities acr
 - **Purpose**: To find the correct city from the filtered list when an item is clicked.
 - **Implementation**: The `lvCities.setOnItemClickListener` method retrieves the selected city from the filtered list based on the position of the clicked item.
 
+### Java's built-in sorting algorithm (TimSort)
+
+- **Purpose**: To sort the list of cities alphabetically by their names when the floating action button (FAB) is clicked, providing users with an organized view of the cities.
+- **Implementation**: The sorting logic is triggered by the FAB's OnClickListener. The list of cities is sorted using Java's List.sort() method, which applies TimSort (a hybrid sorting algorithm). Sorting is performed lexicographically (case-insensitive) by comparing city names using the compareToIgnoreCase method: `filteredCityList.sort((c1, c2) -> c1.getName().compareToIgnoreCase(c2.getName()));` When toggled off, the original city order is restored by resetting filteredCityList to a copy of the unsorted cityList.
+
 ## Prerequisites
 
 - Android Studio 4.0 or higher

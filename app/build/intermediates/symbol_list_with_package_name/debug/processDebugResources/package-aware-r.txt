@@ -3156,6 +3156,7 @@ drawable partly_cloudy_night
 drawable rain_day_night
 drawable sleet_day_night
 drawable snow_day_night
+drawable sort_by_alpha
 drawable sunrise
 drawable sunset
 drawable test_level_drawable
@@ -3355,6 +3356,7 @@ id etSearchCity
 id exitUntilCollapsed
 id expand_activities_button
 id expanded_menu
+id fabSort
 id fade
 id fill
 id fill_horizontal
@@ -4088,6 +4090,7 @@ string searchview_clear_text_content_description
 string searchview_navigation_content_description
 string side_sheet_accessibility_pane_title
 string side_sheet_behavior
+string sort_city_btn
 string status_bar_notification_info_overflow
 string sunrise
 string sunrise_icon

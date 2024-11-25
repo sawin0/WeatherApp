@@ -29,6 +29,7 @@ drawable partly_cloudy_night
 drawable rain_day_night
 drawable sleet_day_night
 drawable snow_day_night
+drawable sort_by_alpha
 drawable sunrise
 drawable sunset
 drawable thunder_day_night
@@ -39,6 +40,7 @@ id btnSearchCity
 id divider1
 id divider2
 id etSearchCity
+id fabSort
 id guideline
 id ivWeatherIcon
 id lvCities
@@ -73,6 +75,7 @@ string description
 string humidity_60
 string location
 string search_city
+string sort_city_btn
 string sunrise
 string sunrise_icon
 string sunset

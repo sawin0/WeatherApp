@@ -120,6 +120,10 @@
         "source": "com.weather.app-main-36:/mipmap-xxxhdpi/ic_launcher.png"
     },
     {
+        "merged": "com.weather.app-debug-34:/drawable_sort_by_alpha.xml.flat",
+        "source": "com.weather.app-main-36:/drawable/sort_by_alpha.xml"
+    },
+    {
         "merged": "com.weather.app-debug-34:/drawable_ic_launcher_background.xml.flat",
         "source": "com.weather.app-main-36:/drawable/ic_launcher_background.xml"
     },

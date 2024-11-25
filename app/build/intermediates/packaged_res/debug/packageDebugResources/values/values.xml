@@ -20,6 +20,7 @@
     <string name="humidity_60">Humidity: 60%</string>
     <string name="location">Location</string>
     <string name="search_city">Search City\n</string>
+    <string name="sort_city_btn">Sort Alphabetically</string>
     <string name="sunrise">Sunrise</string>
     <string name="sunrise_icon">Sunrise Icon</string>
     <string name="sunset">Sunset</string>

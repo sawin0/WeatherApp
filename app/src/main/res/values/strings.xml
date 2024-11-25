@@ -17,4 +17,5 @@
     <string name="sunrise_icon">Sunrise Icon</string>
     <string name="sunset_icon">Sunset Icon</string>
     <string name="search_city">Search City\n</string>
+    <string name="sort_city_btn">Sort Alphabetically</string>
 </resources>
