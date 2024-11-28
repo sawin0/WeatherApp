@@ -8,6 +8,7 @@ import android.util.Log;
 import android.widget.ImageButton;
 import android.widget.ImageView;
 import android.widget.TextView;
+import android.widget.Toast;
 
 import androidx.activity.result.ActivityResultLauncher;
 import androidx.activity.result.contract.ActivityResultContracts;
@@ -23,6 +24,7 @@ import com.weather.app.data.model.Daily;
 import com.weather.app.data.model.WeatherApiResponse;
 import com.weather.app.ui.search.SearchCityActivity;
 import com.weather.app.utils.AppUtils;
+import com.weather.app.utils.DecisionTree;
 
 import java.time.Instant;
 import java.time.LocalDateTime;
@@ -150,6 +152,11 @@ public class MainActivity extends AppCompatActivity {
         dailyList.add(currentWeather.getDaily());
         WeatherAdapter weatherForecastAdapter = new WeatherAdapter(dailyList);
         rvWeatherForecast.setAdapter(weatherForecastAdapter);
+
+        // Using Decision Tree to predict activity based on weather conditions
+        DecisionTree decisionTree = new DecisionTree();
+        String recommendation = decisionTree.predictActivity(currentWeather.getCurrent().getTemperature_2m(), 0, 10, 60, AppUtils.getWeatherDescription(currentWeather.getCurrent().getWeather_code()));
+        Toast.makeText(this, "Recommendation: " + recommendation, Toast.LENGTH_SHORT).show();
     }
 
     private String convertUnixToLocalDateTime(long unixTime) {
