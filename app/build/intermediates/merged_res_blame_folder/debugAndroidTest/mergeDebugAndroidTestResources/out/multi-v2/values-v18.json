@@ -4,7 +4,7 @@
             "outputFile": "com.weather.app.test.app-mergeDebugAndroidTestResources-2:/values-v18/values-v18.xml",
             "map": [
                 {
-                    "source": "/Users/sabin/.gradle/caches/transforms-4/c83e5e547ccaa6fe51aa553caf683d87/transformed/core-1.6.1/res/values-v18/values.xml",
+                    "source": "/Library/Java/JavaVirtualMachines/openlogic-openjdk-11.jdk/caches/transforms-4/0b24a6e71d7cd0cc4f7852c17687e55f/transformed/core-1.6.1/res/values-v18/values.xml",
                     "from": {
                         "startLines": "4,12",
                         "startColumns": "0,0",

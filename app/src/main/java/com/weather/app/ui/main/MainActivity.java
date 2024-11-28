@@ -4,6 +4,8 @@ import android.Manifest;
 import android.content.Intent;
 import android.content.pm.PackageManager;
 import android.os.Bundle;
+import android.os.Handler;
+import android.os.Looper;
 import android.util.Log;
 import android.widget.ImageButton;
 import android.widget.ImageView;
@@ -24,7 +26,7 @@ import com.weather.app.data.model.Daily;
 import com.weather.app.data.model.WeatherApiResponse;
 import com.weather.app.ui.search.SearchCityActivity;
 import com.weather.app.utils.AppUtils;
-import com.weather.app.utils.DecisionTree;
+import com.weather.app.utils.WeatherDecisionMaker;
 
 import java.time.Instant;
 import java.time.LocalDateTime;
@@ -44,21 +46,18 @@ public class MainActivity extends AppCompatActivity {
     private double selectedLongitude;
     private String selectCity;
 
-    private final ActivityResultLauncher<Intent> searchCityLauncher = registerForActivityResult(
-            new ActivityResultContracts.StartActivityForResult(),
-            result -> {
-                if (result.getResultCode() == RESULT_OK) {
-                    Intent data = result.getData();
-                    if (data != null) {
-                        selectCity = data.getStringExtra("city");
-                        selectedLatitude = data.getDoubleExtra("latitude", 0);
-                        selectedLongitude = data.getDoubleExtra("longitude", 0);
-                        Log.d("MainActivity", "Selected City Lat: " + selectedLatitude + ", Lng: " + selectedLongitude);
-                        fetchWeatherForSelectedCity();
-                    }
-                }
+    private final ActivityResultLauncher<Intent> searchCityLauncher = registerForActivityResult(new ActivityResultContracts.StartActivityForResult(), result -> {
+        if (result.getResultCode() == RESULT_OK) {
+            Intent data = result.getData();
+            if (data != null) {
+                selectCity = data.getStringExtra("city");
+                selectedLatitude = data.getDoubleExtra("latitude", 0);
+                selectedLongitude = data.getDoubleExtra("longitude", 0);
+                Log.d("MainActivity", "Selected City Lat: " + selectedLatitude + ", Lng: " + selectedLongitude);
+                fetchWeatherForSelectedCity();
             }
-    );
+        }
+    });
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -154,14 +153,25 @@ public class MainActivity extends AppCompatActivity {
         rvWeatherForecast.setAdapter(weatherForecastAdapter);
 
         // Using Decision Tree to predict activity based on weather conditions
-        DecisionTree decisionTree = new DecisionTree();
-        String recommendation = decisionTree.predictActivity(currentWeather.getCurrent().getTemperature_2m(), 0, 10, 60, AppUtils.getWeatherDescription(currentWeather.getCurrent().getWeather_code()));
-        Toast.makeText(this, "Recommendation: " + recommendation, Toast.LENGTH_SHORT).show();
+        fetchWeatherAndEvaluate(currentWeather);
+
     }
 
     private String convertUnixToLocalDateTime(long unixTime) {
         LocalDateTime localDateTime = LocalDateTime.ofInstant(Instant.ofEpochSecond(unixTime), ZoneId.systemDefault());
         DateTimeFormatter formatter = DateTimeFormatter.ofPattern("HH:mm");
         return localDateTime.format(formatter);
+    }
+
+    private void fetchWeatherAndEvaluate(WeatherApiResponse currentWeather) {
+        // Evaluate weather
+        String alert = WeatherDecisionMaker.evaluateWeather(currentWeather.getCurrent().getTemperature_2m(), AppUtils.getWeatherDescription(currentWeather.getCurrent().getWeather_code()));
+
+        // Add delay before showing the alert
+        new Handler(Looper.getMainLooper()).postDelayed(() -> showAlert(alert), 10000); // 10-second delay
+    }
+
+    private void showAlert(String message) {
+        runOnUiThread(() -> Toast.makeText(this, message, Toast.LENGTH_LONG).show());
     }
 }
